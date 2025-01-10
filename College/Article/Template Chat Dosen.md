@@ -1,4 +1,4 @@
-#unmul #dosen
+#unmul #dosen #etika
 # First of all
 
 Hal **basic manner**,  yang pasti kita lakukan ketika bertemu dengan orang baru adalah **Memperkenalkan Diri** apalagi sama doi <a:lovehearts:1239147657298055178> . Setelah itu kalian pasti menjelaskan masalah dan tujuan kalian apa menghubungi orang tersebut. Dan ini adalah beberapa contohnya yang bisa kalian gunakan:

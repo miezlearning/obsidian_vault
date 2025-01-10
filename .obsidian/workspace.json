@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b15e76e489fe8991",
+        "id": "ceac31cedfcf42a6",
         "type": "tabs",
         "children": [
           {
-            "id": "93ba82b3e892bad5",
+            "id": "b4e9ddda3d618694",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": ""
+                "file": "Study/Garbage Collection.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: appearance.json"
+              "icon": "lucide-file",
+              "title": "Garbage Collection"
             }
           }
         ]
@@ -122,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Study/Garbage Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Garbage Collection"
             }
           },
           {
@@ -147,9 +149,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Study/Garbage Collection.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Garbage Collection"
             }
           },
           {
@@ -183,10 +187,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "93ba82b3e892bad5",
+  "active": "b4e9ddda3d618694",
   "lastOpenFiles": [
-    "College/Article/Template Chat Dosen.md",
     "Study/Belajar Kode Morse.md",
+    "Study/Garbage Collection.md",
+    "menampilkan data.md",
+    "College/Article/Template Chat Dosen.md",
     "New Microsoft Word Document.docx",
     "Misc/Assets/Modul Belajar Kode Morse_2.pdf",
     "Modul Belajar Kode Morse_2.pdf",

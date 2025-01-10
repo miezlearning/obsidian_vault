@@ -1,3 +1,4 @@
+#morse #belajar
 # Sejarah Singkat Kode Morse 🥷 
 
 **Kode Morse **diciptakan pada awal tahun 1830-an oleh **Samuel Morse** dan **Alfred Vail** sebagai sistem komunikasi untuk telegraf. Awalnya, kode ini dirancang untuk mengirimkan pesan melalui sinyal listrik, menggunakan kombinasi titik (.) dan garis (-) untuk mewakili huruf dan angka.
@@ -5,8 +6,6 @@
 Pada tahun 1844, Morse mengirimkan pesan pertamanya dari Washington, D.C. ke Baltimore, Maryland, yang menandai awal era komunikasi jarak jauh. Kode Morse dengan cepat menjadi standar internasional untuk komunikasi telegraf, dan digunakan secara luas dalam berbagai bidang, termasuk militer dan navigasi laut.
 
 Meskipun teknologi komunikasi telah berkembang pesat, kode Morse tetap menjadi simbol inovasi dan kreativitas dalam dunia komunikasi, serta digunakan dalam beberapa aplikasi modern, seperti radio dan sinyal darurat.
-
-![[Pasted image 20250110220438.png]]
 
 # Kenapa Harus Belajar Kode Morse di Era Digital Sekarang? 
 

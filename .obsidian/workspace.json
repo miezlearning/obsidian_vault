@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Garbage Collection.md",
+                "file": "College/Machine Learning/Apa itu Machine Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garbage Collection"
+              "title": "Apa itu Machine Learning"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "b3fc04cfee8b33a1",
+            "id": "b94ad76edafc6570",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,8 +190,13 @@
   },
   "active": "b4e9ddda3d618694",
   "lastOpenFiles": [
-    "Study/Belajar Kode Morse.md",
+    "College/Machine Learning/Untitled.md",
+    "College/Machine Learning/Apa itu Machine Learning.md",
+    "College/Machine Learning/Machine Learning.md",
+    "College/Machine Learning",
     "Study/Garbage Collection.md",
+    "Tags",
+    "Study/Belajar Kode Morse.md",
     "menampilkan data.md",
     "College/Article/Template Chat Dosen.md",
     "New Microsoft Word Document.docx",
@@ -204,7 +210,6 @@
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "Misc/Assets",
     "College/Article",
-    "Tags",
     "Untitled Kanban.md",
     "Misc/Excalidraw/Excalidraw.md",
     "Vault.md",
@@ -221,7 +226,6 @@
     "Tags/Tags.md",
     "Misc/Excalidraw",
     "College/Tugas Akhir/Dokumen Persyaratan",
-    "College/Tugas Akhir",
-    "Daily Life"
+    "College/Tugas Akhir"
   ]
 }

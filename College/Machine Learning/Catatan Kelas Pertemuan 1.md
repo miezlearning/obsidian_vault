@@ -156,3 +156,6 @@ Udah ngerti kan? Sekarang kalau ada yang nanya, tinggal jelasin pakai analogi in
 - **Supervised Learning:** Model yang sudah dilatih dapat langsung digunakan untuk memproses data baru. Pemodelan ulang (retraining) pada supervised learning umumnya hanya diperlukan jika:
     - Ada penambahan data dalam jumlah besar.    
     - Data baru tersebut memiliki label yang berbeda atau memperkenalkan kelas baru (dalam kasus klasifikasi, misalnya dari 2 kelas menjadi 3 kelas). Ini menunjukkan adanya perubahan signifikan dalam distribusi data atau munculnya pola baru yang belum dipelajari model.
+
+
+Apa itu ground turth : 

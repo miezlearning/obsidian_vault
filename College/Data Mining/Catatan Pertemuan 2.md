@@ -101,3 +101,9 @@ Setelah K-Means dijalankan, hasilnya bisa divisualisasikan seperti berikut:
 ✅ Membantu dalam strategi pemasaran yang lebih tertarget
 
 Mau aku bantu buatkan kode Python-nya juga? 🚀
+
+
+# Tugas
+
+Carilah 10 artikel atau jurnal/paper yang menggunakan teknik data mining dalam menyelesaikan masalah dan rangkum seperti apa preprocessing datanya.
+

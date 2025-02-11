@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Data Mining/Major Tasks dalam Data Processing.md",
+                "file": "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Major Tasks dalam Data Processing"
+              "title": "Cara Mengatasi Data Outlier Ekstrem"
             }
           }
         ]
@@ -200,6 +200,8 @@
   },
   "active": "4980699deb911cc4",
   "lastOpenFiles": [
+    "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
+    "College/Data Mining/Data nosiy.md",
     "College/Data Mining/Catatan Pertemuan 2.md",
     "College/Data Mining/Major Tasks dalam Data Processing.md",
     "College/Data Mining/Catatan Pertemuan 1.md",
@@ -236,9 +238,7 @@
     "Modul Belajar Kode Morse_2.pdf",
     "Pasted image 20250110220438.png",
     "Misc/Assets/Pasted image 20250110220405.png",
-    "Misc/Excalidraw/Drawing 2025-01-10 20.49.34.excalidraw.md",
     "Misc/Assets/420356b845a88627f767c78ee9285965.gif",
-    "[.md",
     "Misc/Assets",
     "Untitled.canvas"
   ]

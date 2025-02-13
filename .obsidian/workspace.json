@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
+                "file": "College/Visi Komputer/Pertemuan 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cara Mengatasi Data Outlier Ekstrem"
+              "title": "Pertemuan 3"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "d1892361b277f623",
+            "id": "1ca72f23f8fb3a4b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -200,12 +200,16 @@
   },
   "active": "4980699deb911cc4",
   "lastOpenFiles": [
-    "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
+    "Pasted image 20250213080202.png",
+    "Pasted image 20250213080147.png",
+    "College/Visi Komputer/Pertemuan 2.md",
+    "College/Visi Komputer/Pertemuan 3.md",
     "College/Data Mining/Data nosiy.md",
-    "College/Data Mining/Catatan Pertemuan 2.md",
     "College/Data Mining/Major Tasks dalam Data Processing.md",
-    "College/Data Mining/Catatan Pertemuan 1.md",
     "College/Data Mining/Data Understanding.md",
+    "College/Data Mining/Catatan Pertemuan 2.md",
+    "College/Data Mining/Catatan Pertemuan 1.md",
+    "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
     "College/Machine Learning/Apa itu Machine Learning.md",
     "College/Machine Learning/Untitled.md",
     "College/Machine Learning/Perbedaan 3 Model Machine Learning.md",
@@ -213,7 +217,6 @@
     "College/Machine Learning/Catatan Kelas Pertemuan 1.md",
     "College/Machine Learning/Overfitting.md",
     "College/Kriptografi/Pertemuan 1.md",
-    "College/Visi Komputer/Pertemuan 1.md",
     "College/Kriptografi/Kriptografi.md",
     "College/Kriptografi",
     "Pasted image 20250210131001.png",
@@ -231,8 +234,6 @@
     "College/Machine Learning",
     "Tags",
     "Study/Belajar Kode Morse.md",
-    "menampilkan data.md",
-    "College/Article/Template Chat Dosen.md",
     "New Microsoft Word Document.docx",
     "Misc/Assets/Modul Belajar Kode Morse_2.pdf",
     "Modul Belajar Kode Morse_2.pdf",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBS Coding Camp 2025/Rangkuman Memahami Kebutuhan Aplikasi.md",
+                "file": "DBS Coding Camp 2025/Studi Kasus Pembuatan Dokumen Spesifikasi Kebutuhan Perangkat Lunak.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rangkuman Memahami Kebutuhan Aplikasi"
+              "title": "Studi Kasus Pembuatan Dokumen Spesifikasi Kebutuhan Perangkat Lunak"
             }
           }
         ]
@@ -200,6 +200,9 @@
   },
   "active": "4980699deb911cc4",
   "lastOpenFiles": [
+    "DBS Coding Camp 2025/Studi Kasus Pembuatan Dokumen Spesifikasi Kebutuhan Perangkat Lunak.md",
+    "DBS Coding Camp 2025/Spesifikasi Kebutuhan Perangkat Lunak dan Struktur Penulisannya.md",
+    "DBS Coding Camp 2025/Pengantar Perencanaan Modifikasi Aplikasi.md",
     "DBS Coding Camp 2025/Rangkuman Memahami Kebutuhan Aplikasi.md",
     "DBS Coding Camp 2025/DBS Coding Camp 2025.md",
     "DBS Coding Camp 2025",
@@ -234,11 +237,8 @@
     "College/Kriptografi/Kriptografi.md",
     "College/Kriptografi",
     "Pasted image 20250210131001.png",
-    "College/Visi Komputer/Visi Komputer.md",
     "College/Visi Komputer",
-    "College/Kapita Selekta/Kapita Selekta.md",
     "College/Kapita Selekta",
-    "Study/Garbage Collection.md",
     "College/Data Mining",
     "College/Machine Learning",
     "Tags",

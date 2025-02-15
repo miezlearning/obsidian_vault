@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Data Mining/Catatan Pertemuan 3.md",
+                "file": "DBS Coding Camp 2025/Rangkuman Memahami Kebutuhan Aplikasi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Catatan Pertemuan 3"
+              "title": "Rangkuman Memahami Kebutuhan Aplikasi"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "62bdd2fb004ea513",
+            "id": "18f2888afb78a879",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -200,6 +200,12 @@
   },
   "active": "4980699deb911cc4",
   "lastOpenFiles": [
+    "DBS Coding Camp 2025/Rangkuman Memahami Kebutuhan Aplikasi.md",
+    "DBS Coding Camp 2025/DBS Coding Camp 2025.md",
+    "DBS Coding Camp 2025",
+    "~$ta Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",
+    "Untitled.md",
+    "College/Data Mining/Catatan Pertemuan 3.md",
     "Data Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",
     "Pasted image 20250215110107.png",
     "College/Visi Komputer/Pertemuan 3.md",
@@ -209,7 +215,6 @@
     "College/Data Mining/Catatan Pertemuan 2.md",
     "College/Data Mining/Catatan Pertemuan 1.md",
     "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
-    "College/Data Mining/Catatan Pertemuan 3.md",
     "College/Data Mining/Data nosiy.md",
     "College/Data Mining/Data Understanding.md",
     "College/Machine Learning/Catatan Kelas Pertemuan 2.md",
@@ -234,18 +239,13 @@
     "College/Kapita Selekta/Kapita Selekta.md",
     "College/Kapita Selekta",
     "Study/Garbage Collection.md",
-    "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
-    "College/Data Mining/Data Mining.md",
     "College/Data Mining",
     "College/Machine Learning",
     "Tags",
     "New Microsoft Word Document.docx",
-    "Misc/Assets/Modul Belajar Kode Morse_2.pdf",
-    "Modul Belajar Kode Morse_2.pdf",
     "Pasted image 20250110220438.png",
     "Misc/Assets/Pasted image 20250110220405.png",
     "Misc/Assets/420356b845a88627f767c78ee9285965.gif",
-    "Misc/Assets",
     "Untitled.canvas"
   ]
 }

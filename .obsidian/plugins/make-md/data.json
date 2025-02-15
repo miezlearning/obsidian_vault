@@ -35,8 +35,6 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//College",
     "//Daily Life",
     "//Study",
     "//Tags",
@@ -47,7 +45,9 @@
     "//College/College/Machine Learning",
     "//College/College/Kapita Selekta",
     "//College/College/Data Mining",
-    "//College/College/Visi Komputer"
+    "//College/College/Visi Komputer",
+    "/",
+    "//DBS Coding Camp 2025"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

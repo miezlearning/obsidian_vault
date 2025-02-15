@@ -293,4 +293,106 @@ Namun, ini **hanya perkiraan awal**, tetap disarankan menggunakan cross-validati
 
 💡 **Tidak ada K terbaik yang universal, semua tergantung pada dataset!** 🚀
 
-## 
+
+
+Algoritma Knn.fit
+- Tentukan jumlah tetangga yang akan di hitung
+- Hitung jarak dari data baru dengna semua data ltih yang adalah.urutkan hasilnya berdasarkan jarak mulai dari terkecil ke terbesar.
+
+
+
+	Berikut versi yang telah disempurnakan:
+
+---
+
+### **Contoh Kasus:**
+
+Misalkan ada sebuah rumah yang berada tepat di tengah perbatasan antara **Kota X** dan **Kabupaten Y**, sehingga sulit untuk menentukan apakah rumah tersebut termasuk dalam wilayah Kota X atau Kabupaten Y.
+
+Kita dapat menentukan wilayahnya menggunakan algoritma **K-Nearest Neighbors (KNN)** dengan melibatkan jarak antara rumah tersebut dengan rumah-rumah lain di sekitarnya yang sudah diketahui wilayahnya.
+
+---
+
+### **Langkah-Langkah Algoritma KNN:**
+
+1️⃣ **Menentukan jumlah tetangga (K)**
+
+- Tentukan jumlah tetangga terdekat yang akan dipertimbangkan.
+- Misalnya, kita pilih **K = 3**, artinya kita akan melihat **3 rumah terdekat** sebagai referensi.
+
+2️⃣ **Menghitung jarak ke setiap tetangga**
+
+- Hitung jarak rumah tersebut dengan semua rumah di sekitarnya yang sudah diketahui wilayahnya.
+- Bisa menggunakan metode seperti **Euclidean Distance** atau **Manhattan Distance**.
+
+3️⃣ **Mengurutkan hasil berdasarkan jarak**
+
+- Urutkan rumah-rumah di sekitar berdasarkan jarak **dari yang paling dekat ke yang paling jauh**.
+
+4️⃣ **Mengambil K tetangga terdekat**
+
+- Pilih **3 rumah terdekat** dari hasil pengurutan tadi.
+- Lihat apakah rumah-rumah tersebut termasuk dalam **Kota X** atau **Kabupaten Y**.
+
+5️⃣ **Menentukan wilayah berdasarkan mayoritas**
+
+- Jika mayoritas tetangga termasuk dalam **Kota X**, maka rumah tersebut dikategorikan dalam **Kota X**.
+- Jika mayoritas tetangga termasuk dalam **Kabupaten Y**, maka rumah tersebut dikategorikan dalam **Kabupaten Y**.
+
+---
+
+### **Kesimpulan**
+
+Dengan menggunakan algoritma **KNN**, kita dapat menentukan wilayah rumah tersebut berdasarkan **mayoritas tetangga terdekat**. Jika mayoritas rumah tetangga berada di Kota X, maka rumah tersebut kemungkinan besar termasuk **Kota X**, dan sebaliknya.
+
+📌 **Semakin besar nilai K, semakin stabil hasilnya**, tetapi jika K terlalu besar, perhitungan bisa menjadi kurang akurat karena melibatkan rumah yang terlalu jauh. 🚀
+
+
+ConrToh kasus: 
+
+Bila dari 3 tetangga tersebut terdapat ada 2 rumah yang termasuk
+
+
+Misal k = 5 class 3, haislnya bisa 2 2 1,
+
+nilai ganjil tidak selalu ketemu nilai akhirnya berapa. 
+
+![[Pasted image 20250213095804.png]]
+
+![[Pasted image 20250213095818.png]]
+
+![[Pasted image 20250213095829.png]]
+
+Dalam K-Nearest Neighbors (KNN), Euclidean Distance digunakan untuk menghitung jarak antara data point yang ingin diklasifikasikan dengan semua data point dalam training set. Jarak ini digunakan untuk menemukan K data point terdekat (tetangga terdekat) dengan data point baru tersebut.
+
+**Rumus (dalam KNN):**
+
+Misalkan kita punya:
+
+- **x:** Data point baru yang ingin diklasifikasikan.
+    
+- **xᵢ:** Data point ke-i dalam training set.
+    
+
+Maka, jarak Euclidean antara **x** dan **xᵢ** dihitung sebagai:
+
+d(x, xᵢ) = √((x₁ - xᵢ₁) ² + (x₂ - xᵢ₂) ² + ... + (xₙ - xᵢₙ)²)
+
+	**Penjelasan:**
+
+- **d(x, xᵢ):** Jarak Euclidean antara data point baru **x** dan data point ke-i dalam training set.
+    
+- **x₁, x₂, ..., xₙ:** Fitur-fitur dari data point baru **x**.
+    
+- **xᵢ₁, xᵢ₂, ..., xᵢₙ:** Fitur-fitur dari data point ke-i dalam training set.
+    
+- **n:** Jumlah fitur (dimensi) dari data point.
+    
+
+**Singkatnya:**
+
+KNN menggunakan Euclidean Distance untuk mengukur "kedekatan" antara data point baru dan data point di training set. Data point dengan jarak terpendek dianggap sebagai tetangga terdekat.
+
+
+
+11 

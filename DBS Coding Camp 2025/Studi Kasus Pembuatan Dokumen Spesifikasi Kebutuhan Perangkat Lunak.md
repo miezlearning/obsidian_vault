@@ -2,7 +2,7 @@
 aliases:
   - Studi Kasus Pembuatan Dokumen Spesifikasi Kebutuhan Perangkat Lunak
 ---
-[Transkrip
+
 
 Hai!
 

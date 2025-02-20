@@ -1,32 +1,41 @@
-Tentu, ini beberapa opsi jawaban yang bisa kamu gunakan, tergantung seberapa dalam kamu ingin menjawab dan seberapa banyak kamu sudah memahami isi jurnalnya:
+**Selamat pagi/siang/sore semuanya,**
 
-**Opsi 1 (Jawaban Singkat, Jika Belum Terlalu Paham):**
+Hari ini saya akan mempresentasikan penelitian yang berjudul **"Analisis Sentimen Terhadap Opini Masyarakat Tentang Vaksin Covid-19 Menggunakan Algoritma Naïve Bayes Classifier."**
 
-"Baik, Bapak/Ibu. Mengenai jurnal yang berjudul '[Judul Jurnal yang Ditanyakan]', secara garis besar jurnal tersebut membahas tentang [Sebutkan tugas data mining yang dilakukan, contoh: deteksi intrusi jaringan / prediksi kepuasan pasien]. Metode data mining yang digunakan antara lain [Sebutkan beberapa metode yang dipakai, contoh: KNN dan SVM]. Untuk data yang digunakan, proses preparasinya meliputi [Sebutkan secara singkat proses data preparasinya, contoh: pengumpulan data log jaringan dan normalisasi data]. Apakah Bapak/Ibu ingin saya menjelaskan lebih detail mengenai bagian tertentu dari jurnal ini?"
+### **Pendahuluan**
 
-**Opsi 2 (Jawaban Lebih Detail, Jika Sudah Lebih Paham):**
+Pandemi COVID-19 telah membawa banyak perubahan dalam kehidupan sosial dan ekonomi masyarakat. Salah satu langkah utama yang diambil untuk mengatasi pandemi ini adalah vaksinasi. Namun, kebijakan vaksinasi mendapat berbagai tanggapan dari masyarakat, terutama di media sosial seperti Twitter. Oleh karena itu, penelitian ini bertujuan untuk menganalisis sentimen masyarakat Indonesia terhadap vaksinasi COVID-19 berdasarkan data tweet yang dikumpulkan.
 
-"Baik, Bapak/Ibu. Jurnal yang berjudul '[Judul Jurnal yang Ditanyakan]' ini sangat menarik karena membahas tentang [Sebutkan tugas data mining dengan lebih detail, contoh: penggunaan data mining untuk deteksi intrusi jaringan dengan tujuan meningkatkan keamanan sistem]. Penulis menggunakan beberapa metode seperti [Sebutkan metode data mining dan jelaskan sedikit mengapa metode tersebut dipilih, contoh: KNN karena kemampuannya untuk mengklasifikasikan data berdasarkan kedekatan, dan SVM untuk mencari hyperplane optimal yang memisahkan data normal dan anomali]. Proses data preparasinya juga cukup penting, di mana [Jelaskan lebih detail proses data preparasinya, contoh: data log jaringan dikumpulkan, dinormalisasi untuk menghindari bias, dan fitur-fitur relevan dipilih untuk meningkatkan akurasi deteksi]. Hasil dari penelitian ini menunjukkan bahwa [Sebutkan secara singkat hasil atau kesimpulan penelitian, jika kamu mengetahuinya]."
+### **Metode Penelitian**
 
-**Opsi 3 (Jika Belum Sempat Membaca Jurnal Tersebut Secara Mendalam):**
+Dalam penelitian ini, kami menggunakan teknik _data mining_ dengan beberapa tahapan utama:
 
-"Mohon maaf, Bapak/Ibu, saya belum sempat membaca jurnal '[Judul Jurnal yang Ditanyakan]' ini secara mendalam. Namun, dari yang saya pahami berdasarkan judul dan abstraknya, jurnal ini membahas tentang [Sebutkan tugas data mining secara umum]. Saya akan segera membaca jurnal ini lebih detail agar dapat memberikan penjelasan yang lebih komprehensif. Apakah ada poin-poin spesifik yang ingin Bapak/Ibu tanyakan?"
-
-**Tips Tambahan:**
-
-- **Sebutkan judul jurnal dengan benar:** Ini menunjukkan bahwa kamu tahu jurnal mana yang sedang dibahas.
+1. **Pengumpulan Data:**
     
-- **Fokus pada poin-poin penting:** Tugas data mining, metode yang digunakan, dan proses data preparasi.
+    - Data dikumpulkan dari Twitter menggunakan API.
+    - Sebanyak **3.780 tweet** terkait vaksinasi COVID-19 dikumpulkan dan disimpan dalam format CSV.
+2. **Data Preparasi:**
     
-- **Gunakan bahasa yang jelas dan mudah dipahami:** Hindari jargon yang berlebihan jika kamu tidak yakin.
+    - _Cleansing_ → Menghapus URL, tanda baca, dan karakter yang tidak relevan.
+    - _Convert emoticon_ → Mengubah emotikon menjadi teks.
+    - _Tokenization_ → Memecah kalimat menjadi kata-kata.
+    - _Stemming & Stopword Removal_ → Mengubah kata ke bentuk dasar dan menghapus kata tidak penting.
+    - _TF-IDF Weighting_ → Memberikan bobot pada kata berdasarkan tingkat kepentingannya.
+3. **Modeling Data Mining:**
     
-- **Tawarkan untuk menjelaskan lebih detail:** Ini menunjukkan antusiasme dan kesediaan untuk belajar.
-    
-- **Jujur jika belum terlalu paham:** Lebih baik mengakui daripada memberikan informasi yang salah.
-    
+    - Kami menggunakan **Naïve Bayes Classifier**, salah satu metode klasifikasi berbasis probabilitas.
+    - Model ini memprediksi apakah sebuah tweet memiliki sentimen **positif, netral, atau negatif** berdasarkan kata-kata yang digunakan.
 
-**Contoh Konkret (Menggunakan Jurnal Nomor 1):**
+### **Hasil dan Pembahasan**
 
-"Baik, Bapak/Ibu. Mengenai jurnal yang berjudul 'A Data Mining Approach for Network Intrusion Detection', secara garis besar jurnal tersebut membahas tentang deteksi intrusi jaringan. Metode data mining yang digunakan antara lain K-Nearest Neighbors (KNN), Support Vector Machines (SVM), dan Decision Trees. Untuk data yang digunakan, proses preparasinya meliputi pengumpulan data dari log jaringan, normalisasi data, dan seleksi fitur yang relevan. Apakah Bapak/Ibu ingin saya menjelaskan lebih detail mengenai bagian tertentu dari jurnal ini?"
+Setelah proses analisis, hasilnya menunjukkan bahwa:  
+✅ **60.3% tweet memiliki sentimen positif** terhadap vaksinasi.  
+😐 **34.4% tweet bersifat netral.**  
+❌ **Hanya 5.4% tweet yang menunjukkan sentimen negatif.**  
+Selain itu, model yang digunakan memiliki tingkat akurasi sebesar **93%**, yang menunjukkan bahwa metode _Naïve Bayes Classifier_ cukup efektif dalam analisis sentimen.
 
-Semoga jawaban ini membantu!
+### **Kesimpulan**
+
+Berdasarkan penelitian ini, dapat disimpulkan bahwa mayoritas masyarakat Indonesia di Twitter memiliki pandangan positif terhadap vaksinasi COVID-19. Dengan tingkat akurasi yang tinggi, metode _Naïve Bayes_ terbukti dapat digunakan untuk menganalisis opini publik secara efektif.
+
+![[Data Preparation-Romi.pdf]]

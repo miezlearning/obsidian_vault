@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Data Mining/Tugas 1 Data Mining 2209106127_Muhammad Alif.md",
+                "file": "College/Machine Learning/Catatan Pertemuan 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tugas 1 Data Mining 2209106127_Muhammad Alif"
+              "title": "Catatan Pertemuan 3"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "0a4e9b31626ec078",
+            "id": "e9aade890c0e41a5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -200,9 +200,14 @@
   },
   "active": "4980699deb911cc4",
   "lastOpenFiles": [
-    "College/Data Mining/Catatan Pertemuan 2.md",
+    "College/Visi Komputer/Pertemuan 4.md",
+    "College/Machine Learning/Catatan Pertemuan 3.md",
     "College/Data Mining/Jawaban Tugas 1.md",
     "College/Data Mining/Tugas 1 Data Mining 2209106127_Muhammad Alif.md",
+    "College/Data Mining/Catatan Pertemuan 1.md",
+    "Data Preparation-Romi.pdf",
+    "College/Data Mining/Catatan Pertemuan 3.md",
+    "College/Data Mining/Catatan Pertemuan 2.md",
     "DBS Coding Camp 2025/Studi Kasus Pembuatan Dokumen Spesifikasi Kebutuhan Perangkat Lunak.md",
     "DBS Coding Camp 2025/Spesifikasi Kebutuhan Perangkat Lunak dan Struktur Penulisannya.md",
     "DBS Coding Camp 2025/Pengantar Perencanaan Modifikasi Aplikasi.md",
@@ -211,14 +216,12 @@
     "DBS Coding Camp 2025",
     "~$ta Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",
     "Untitled.md",
-    "College/Data Mining/Catatan Pertemuan 3.md",
     "Data Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",
     "Pasted image 20250215110107.png",
     "College/Visi Komputer/Pertemuan 3.md",
     "College/Visi Komputer/Pertemuan 2.md",
     "College/Kapita Selekta/Catatan Pertemuan 1.md",
     "College/Kapita Selekta/Apa itu Kapita Selekta.md",
-    "College/Data Mining/Catatan Pertemuan 1.md",
     "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
     "College/Data Mining/Data nosiy.md",
     "College/Data Mining/Data Understanding.md",
@@ -233,8 +236,6 @@
     "College/Data Mining/Major Tasks dalam Data Processing.md",
     "College/Machine Learning/Apa itu Machine Learning.md",
     "College/Machine Learning/Untitled.md",
-    "College/Machine Learning/Perbedaan 3 Model Machine Learning.md",
-    "College/Machine Learning/Overfitting.md",
     "College/Kriptografi",
     "Pasted image 20250210131001.png",
     "College/Visi Komputer",
@@ -242,7 +243,6 @@
     "College/Data Mining",
     "College/Machine Learning",
     "Tags",
-    "New Microsoft Word Document.docx",
     "Pasted image 20250110220438.png",
     "Misc/Assets/Pasted image 20250110220405.png",
     "Misc/Assets/420356b845a88627f767c78ee9285965.gif",

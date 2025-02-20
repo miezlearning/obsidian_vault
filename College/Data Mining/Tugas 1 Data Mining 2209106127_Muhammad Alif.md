@@ -1,8 +1,7 @@
 Berikut adalah 10 contoh artikel/paper berbahasa Indonesia tentang data mining dengan usaha pencarian link sumber terbaik (per Januari 2025). Ingatlah bahwa ketersediaan link bisa berubah seiring waktu:
 
-1. **Judul:** _Analisis Sentimen Opini Masyarakat Terhadap Vaksin COVID-19 Menggunakan Algoritma Naive Bayes dan Support Vector Machine_
-    
-    - **Link Sumber:** (Sulit menemukan link persis, namun ini contoh artikel serupa di Jurnal RESTI): [https://jurnal.iaii.or.id/index.php/RESTI/article/view/3096](https://jurnal.iaii.or.id/index.php/RESTI/article/view/3096) (Sebagai contoh implementasi analisis sentimen dengan Naive Bayes)
+1. **Judul:** _Analisis Sentimen Opini Masyarakat Terhadap Vaksin COVID-19 Menggunakan Algoritma Naive Bayes_
+    - **Link Sumber:** (Sulit menemukan link persis, namun ini contoh artikel serupa di Jurnal RESTI): [/RESTI/article/view/3096)](https://ejurnal.teknokrat.ac.id/index.php/JDMSI/article/view/1344) 
         
     - **Tugas Data Mining:** Analisis sentimen opini publik terhadap vaksin COVID-19 di media sosial (misalnya Twitter).
         
@@ -101,17 +100,3 @@ Berikut adalah 10 contoh artikel/paper berbahasa Indonesia tentang data mining d
     - **Data Preparasi:** Data historis curah hujan, data suhu, data kelembaban udara.
         
 
-**Panduan Mencari Sumber Asli:**
-
-1. **Google Scholar:** Gunakan Google Scholar ([https://scholar.google.co.id/](https://scholar.google.co.id/)) dengan kata kunci yang spesifik (judul, penulis, metode data mining).
-    
-2. **Repository Universitas:** Cari di _repository_ tugas akhir/skripsi universitas-universitas di Indonesia.
-    
-3. **Prosiding Konferensi:** Telusuri prosiding konferensi nasional di bidang ilmu komputer, sistem informasi, atau bidang terkait.
-    
-4. **Jurnal Ilmiah:** Cari di jurnal-jurnal ilmiah Indonesia yang terakreditasi (Sinta).
-    
-5. **Hubungi Penulis:** Jika memungkinkan, coba hubungi penulis artikel melalui email atau media sosial.
-    
-
-Saya harap daftar ini membantu. Meskipun sulit menemukan link sumber yang persis, contoh-contoh ini memberikan gambaran yang baik tentang penerapan data mining dalam konteks Indonesia.

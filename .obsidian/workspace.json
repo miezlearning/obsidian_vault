@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/Catatan Pertemuan 3.md",
+                "file": "College/Machine Learning/Overfitting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Catatan Pertemuan 3"
+              "title": "Overfitting"
             }
           }
         ]
@@ -200,14 +200,21 @@
   },
   "active": "4980699deb911cc4",
   "lastOpenFiles": [
-    "College/Visi Komputer/Pertemuan 4.md",
+    "College/Machine Learning/Ground Truth.md",
+    "College/Data Mining/Catatan Pertemuan 2.md",
+    "College/Data Mining/Major Tasks dalam Data Processing.md",
+    "College/Kapita Selekta/Apa itu Kapita Selekta.md",
+    "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
+    "College/Machine Learning/Untitled 1.md",
+    "College/Machine Learning/Model Neuron.md",
+    "College/Machine Learning/Cara Kerja JST dan JSB.md",
     "College/Machine Learning/Catatan Pertemuan 3.md",
+    "College/Visi Komputer/Pertemuan 4.md",
     "College/Data Mining/Jawaban Tugas 1.md",
     "College/Data Mining/Tugas 1 Data Mining 2209106127_Muhammad Alif.md",
     "College/Data Mining/Catatan Pertemuan 1.md",
     "Data Preparation-Romi.pdf",
     "College/Data Mining/Catatan Pertemuan 3.md",
-    "College/Data Mining/Catatan Pertemuan 2.md",
     "DBS Coding Camp 2025/Studi Kasus Pembuatan Dokumen Spesifikasi Kebutuhan Perangkat Lunak.md",
     "DBS Coding Camp 2025/Spesifikasi Kebutuhan Perangkat Lunak dan Struktur Penulisannya.md",
     "DBS Coding Camp 2025/Pengantar Perencanaan Modifikasi Aplikasi.md",
@@ -221,21 +228,14 @@
     "College/Visi Komputer/Pertemuan 3.md",
     "College/Visi Komputer/Pertemuan 2.md",
     "College/Kapita Selekta/Catatan Pertemuan 1.md",
-    "College/Kapita Selekta/Apa itu Kapita Selekta.md",
     "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
     "College/Data Mining/Data nosiy.md",
     "College/Data Mining/Data Understanding.md",
-    "College/Machine Learning/Catatan Kelas Pertemuan 2.md",
     "Pasted image 20250213095829.png",
     "Pasted image 20250213095818.png",
     "Pasted image 20250213095804.png",
-    "College/Machine Learning/Catatan Kelas Pertemuan 1.md",
-    "College/Machine Learning/Ground Truth.md",
     "Pasted image 20250213080202.png",
     "Pasted image 20250213080147.png",
-    "College/Data Mining/Major Tasks dalam Data Processing.md",
-    "College/Machine Learning/Apa itu Machine Learning.md",
-    "College/Machine Learning/Untitled.md",
     "College/Kriptografi",
     "Pasted image 20250210131001.png",
     "College/Visi Komputer",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/Overfitting.md",
+                "file": "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Overfitting"
+              "title": "Persyaratan Utama"
             }
           }
         ]
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "925b19014058660d",
@@ -200,6 +200,11 @@
   },
   "active": "4980699deb911cc4",
   "lastOpenFiles": [
+    "College/Multimedia/Catatan Pertemuan.md",
+    "College/Machine Learning/Overfitting.md",
+    "College/Multimedia/Multimedia.md",
+    "College/Multimedia",
+    "College/Untitled.md",
     "College/Machine Learning/Ground Truth.md",
     "College/Data Mining/Catatan Pertemuan 2.md",
     "College/Data Mining/Major Tasks dalam Data Processing.md",
@@ -227,10 +232,6 @@
     "Pasted image 20250215110107.png",
     "College/Visi Komputer/Pertemuan 3.md",
     "College/Visi Komputer/Pertemuan 2.md",
-    "College/Kapita Selekta/Catatan Pertemuan 1.md",
-    "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
-    "College/Data Mining/Data nosiy.md",
-    "College/Data Mining/Data Understanding.md",
     "Pasted image 20250213095829.png",
     "Pasted image 20250213095818.png",
     "Pasted image 20250213095804.png",
@@ -242,7 +243,6 @@
     "College/Kapita Selekta",
     "College/Data Mining",
     "College/Machine Learning",
-    "Tags",
     "Pasted image 20250110220438.png",
     "Misc/Assets/Pasted image 20250110220405.png",
     "Misc/Assets/420356b845a88627f767c78ee9285965.gif",

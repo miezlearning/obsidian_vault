@@ -22,7 +22,7 @@ Nah, overfitting dalam machine learning itu mirip seperti itu!
 
 **Singkatnya:**
 
-Overfitting itu kayak model yang terlalu "hafal mati" data pelatihan, sampai-sampai dia gak bisa ngerjain soal yang sedikit beda. Dia jago di data yang itu-itu aja, tapi payah kalau ketemu data baru.
+Overfitting itu kayak model yang terlalu "hafal mati" data pelatihan, sampai-sampai dia gak bisa ngerjain soal yang sedMikit beda. Dia jago di data yang itu-itu aja, tapi payah kalau ketemu data baru.
 
 **Visualisasi (kalau kamu suka gambar):**
 

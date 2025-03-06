@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/PKL/Catatan Awal.md",
+                "file": "College/KKN/Catatan Penulisan Proposal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Catatan Awal"
+              "title": "Catatan Penulisan Proposal"
             }
           }
         ],
@@ -110,7 +110,7 @@
             }
           },
           {
-            "id": "e82ce2c457fac209",
+            "id": "1e392d609f30d157",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -225,11 +225,20 @@
   },
   "active": "0ac911dad073b60b",
   "lastOpenFiles": [
+    "College/Machine Learning/Perbedaan 3 Model Machine Learning.md",
+    "College/KKN/Catatan Penulisan Proposal.md",
+    "College/KKN/KKN.md",
+    "College/KKN",
+    "College/Machine Learning/Catatan Kelas Pertemuan 1.md",
+    "College/Machine Learning/Catatan Kelas Pertemuan 2.md",
+    "College/Machine Learning/Catatan Pertemuan 3.md",
+    "College/Machine Learning/Overfitting.md",
+    "College/Machine Learning/Untitled 1.md",
+    "College/Machine Learning/Untitled.md",
     "College/PKL/Catatan Awal.md",
     "College/PKL/PKL.md",
     "College/PKL",
     "College/Multimedia/Catatan Pertemuan.md",
-    "College/Machine Learning/Overfitting.md",
     "College/Multimedia/Multimedia.md",
     "College/Multimedia",
     "College/Untitled.md",
@@ -238,24 +247,16 @@
     "College/Data Mining/Major Tasks dalam Data Processing.md",
     "College/Kapita Selekta/Apa itu Kapita Selekta.md",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
-    "College/Machine Learning/Untitled 1.md",
     "College/Machine Learning/Model Neuron.md",
     "College/Machine Learning/Cara Kerja JST dan JSB.md",
-    "College/Machine Learning/Catatan Pertemuan 3.md",
     "College/Visi Komputer/Pertemuan 4.md",
     "College/Data Mining/Jawaban Tugas 1.md",
     "College/Data Mining/Tugas 1 Data Mining 2209106127_Muhammad Alif.md",
     "College/Data Mining/Catatan Pertemuan 1.md",
     "Data Preparation-Romi.pdf",
     "College/Data Mining/Catatan Pertemuan 3.md",
-    "DBS Coding Camp 2025/Studi Kasus Pembuatan Dokumen Spesifikasi Kebutuhan Perangkat Lunak.md",
-    "DBS Coding Camp 2025/Spesifikasi Kebutuhan Perangkat Lunak dan Struktur Penulisannya.md",
-    "DBS Coding Camp 2025/Pengantar Perencanaan Modifikasi Aplikasi.md",
-    "DBS Coding Camp 2025/Rangkuman Memahami Kebutuhan Aplikasi.md",
-    "DBS Coding Camp 2025/DBS Coding Camp 2025.md",
     "DBS Coding Camp 2025",
     "~$ta Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",
-    "Untitled.md",
     "Data Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",
     "Pasted image 20250215110107.png",
     "Pasted image 20250213095829.png",
@@ -267,7 +268,6 @@
     "Pasted image 20250210131001.png",
     "College/Visi Komputer",
     "College/Kapita Selekta",
-    "College/Data Mining",
     "Pasted image 20250110220438.png",
     "Misc/Assets/Pasted image 20250110220405.png",
     "Misc/Assets/420356b845a88627f767c78ee9285965.gif",

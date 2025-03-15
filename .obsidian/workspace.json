@@ -59,12 +59,24 @@
             "id": "bddc7208e807950e",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "College"
+                "file": "Misc/Tips And Trick/Tips Pemeriksaan HP JB.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "College"
+              "title": "Tips Pemeriksaan HP JB"
             }
           }
         ],
@@ -235,8 +247,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bddc7208e807950e",
+  "active": "389bebdda427842a",
   "lastOpenFiles": [
+    "Misc/Tips And Trick/Tips Pemeriksaan HP JB.md",
+    "Misc/Tips And Trick/Tips And Trick.md",
+    "Misc/Tips And Trick",
+    "Misc/Excalidraw/Drawing 2025-01-10 20.49.34.excalidraw.md",
     "College/KKN/Folder Drive Kelompok KKN.md",
     "College/KKN/KKN.md",
     "College/KKN/Contoh Proposal.md",
@@ -263,9 +279,6 @@
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "College/Machine Learning/Model Neuron.md",
     "College/Machine Learning/Cara Kerja JST dan JSB.md",
-    "College/Visi Komputer/Pertemuan 4.md",
-    "College/Data Mining/Jawaban Tugas 1.md",
-    "College/Data Mining/Tugas 1 Data Mining 2209106127_Muhammad Alif.md",
     "Data Preparation-Romi.pdf",
     "DBS Coding Camp 2025",
     "~$ta Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",
@@ -279,7 +292,6 @@
     "College/Kriptografi",
     "Pasted image 20250210131001.png",
     "College/Visi Komputer",
-    "College/Kapita Selekta",
     "Pasted image 20250110220438.png",
     "Misc/Assets/Pasted image 20250110220405.png",
     "Misc/Assets/420356b845a88627f767c78ee9285965.gif",

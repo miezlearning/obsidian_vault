@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/KKN/Catatan Penulisan Proposal.md",
+                "file": "College/KKN/Folder Drive Kelompok KKN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Catatan Penulisan Proposal"
+              "title": "Folder Drive Kelompok KKN"
+            }
+          },
+          {
+            "id": "bddc7208e807950e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "College"
+              },
+              "icon": "lucide-file",
+              "title": "College"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             }
           },
           {
-            "id": "1e392d609f30d157",
+            "id": "2377b6497ecc9e96",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -223,11 +235,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0ac911dad073b60b",
+  "active": "bddc7208e807950e",
   "lastOpenFiles": [
-    "College/Machine Learning/Perbedaan 3 Model Machine Learning.md",
-    "College/KKN/Catatan Penulisan Proposal.md",
+    "College/KKN/Folder Drive Kelompok KKN.md",
     "College/KKN/KKN.md",
+    "College/KKN/Contoh Proposal.md",
+    "College/KKN/Catatan Penulisan Proposal.md",
+    "College/Machine Learning/Perbedaan 3 Model Machine Learning.md",
     "College/KKN",
     "College/Machine Learning/Catatan Kelas Pertemuan 1.md",
     "College/Machine Learning/Catatan Kelas Pertemuan 2.md",
@@ -252,9 +266,7 @@
     "College/Visi Komputer/Pertemuan 4.md",
     "College/Data Mining/Jawaban Tugas 1.md",
     "College/Data Mining/Tugas 1 Data Mining 2209106127_Muhammad Alif.md",
-    "College/Data Mining/Catatan Pertemuan 1.md",
     "Data Preparation-Romi.pdf",
-    "College/Data Mining/Catatan Pertemuan 3.md",
     "DBS Coding Camp 2025",
     "~$ta Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",
     "Data Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",

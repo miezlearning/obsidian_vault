@@ -42,4 +42,4 @@ Melakukan transaksi di Facebook Marketplace memang butuh kewaspadaan ekstra. Kit
 
 # Pemeriksaan Barang
 
-![![Misc/Tips And Trick/#*Table]]Kotak asli, segel utuh (jika baru)Charger, kabel, buku manual adaBodi HP: Tidak ada goresan/cacat (jika diklaim baru)IMEI di kotak sesuai dengan HP (*#06#)
+![![Misc/Tips And Trick/#*Table]]

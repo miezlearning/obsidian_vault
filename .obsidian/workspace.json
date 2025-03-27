@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Tips And Trick/Tips Pemeriksaan HP JB.md",
+                "file": "Misc/IDK/Saran Perbaikan ERD Raplot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tips Pemeriksaan HP JB"
+              "title": "Saran Perbaikan ERD Raplot"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "60ab1cfb5eb5ff1c",
+            "id": "fe516008144e56fe",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -247,8 +247,17 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e4583c3dd13a89fc",
+  "active": "bddc7208e807950e",
   "lastOpenFiles": [
+    "College/Data Mining/Tugas 1 Data Mining 2209106127_Muhammad Alif.md",
+    "Misc/IDK/Saran Perbaikan ERD Raplot.md",
+    "Misc/IDK/IDK.md",
+    "Misc/IDK",
+    "College/Machine Learning/Apa itu Machine Learning.md",
+    "College/Data Mining/Catatan Pertemuan 2.md",
+    "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
+    "College/Kapita Selekta/Apa itu Kapita Selekta.md",
+    "College/Kapita Selekta/Catatan Pertemuan 1.md",
     "Misc/Tips And Trick/Tips Pemeriksaan HP JB.md",
     "Misc/Tips And Trick/Tips And Trick.md",
     "Misc/Tips And Trick",
@@ -271,14 +280,6 @@
     "College/Multimedia/Catatan Pertemuan.md",
     "College/Multimedia/Multimedia.md",
     "College/Multimedia",
-    "College/Untitled.md",
-    "College/Machine Learning/Ground Truth.md",
-    "College/Data Mining/Catatan Pertemuan 2.md",
-    "College/Data Mining/Major Tasks dalam Data Processing.md",
-    "College/Kapita Selekta/Apa itu Kapita Selekta.md",
-    "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
-    "College/Machine Learning/Model Neuron.md",
-    "College/Machine Learning/Cara Kerja JST dan JSB.md",
     "Data Preparation-Romi.pdf",
     "DBS Coding Camp 2025",
     "~$ta Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",
@@ -291,7 +292,6 @@
     "Pasted image 20250213080147.png",
     "College/Kriptografi",
     "Pasted image 20250210131001.png",
-    "College/Visi Komputer",
     "Pasted image 20250110220438.png",
     "Misc/Assets/Pasted image 20250110220405.png",
     "Misc/Assets/420356b845a88627f767c78ee9285965.gif",

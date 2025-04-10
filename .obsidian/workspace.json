@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/IDK/Saran Perbaikan ERD Raplot.md",
+                "file": "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Saran Perbaikan ERD Raplot"
+              "title": "Persyaratan Utama"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "fe516008144e56fe",
+            "id": "a5b487cccb6b4705",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -249,8 +249,8 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
-    "College/Data Mining/Tugas 1 Data Mining 2209106127_Muhammad Alif.md",
     "Misc/IDK/Saran Perbaikan ERD Raplot.md",
+    "College/Data Mining/Tugas 1 Data Mining 2209106127_Muhammad Alif.md",
     "Misc/IDK/IDK.md",
     "Misc/IDK",
     "College/Machine Learning/Apa itu Machine Learning.md",

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/IDK/Perbaikan Class Diagram Dapin.md",
+                "file": "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Perbaikan Class Diagram Dapin"
+              "title": "Modul Memahami Mechanical Keyboard"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "a5b487cccb6b4705",
+            "id": "dde26eaf6f8b39bf",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -249,6 +249,9 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
+    "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
+    "Daily Life/Mechanichal Keyboard/Mechanichal Keyboard.md",
+    "Daily Life/Mechanichal Keyboard",
     "Misc/IDK/Perbaikan Class Diagram Dapin.md",
     "Misc/IDK/IDK.md",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
@@ -276,8 +279,6 @@
     "College/Machine Learning/Overfitting.md",
     "College/Machine Learning/Untitled 1.md",
     "College/Machine Learning/Untitled.md",
-    "College/PKL/Catatan Awal.md",
-    "College/PKL/PKL.md",
     "College/PKL",
     "College/Multimedia",
     "Data Preparation-Romi.pdf",
@@ -290,7 +291,6 @@
     "Pasted image 20250213095804.png",
     "Pasted image 20250213080202.png",
     "Pasted image 20250213080147.png",
-    "College/Kriptografi",
     "Pasted image 20250210131001.png",
     "Pasted image 20250110220438.png",
     "Misc/Assets/Pasted image 20250110220405.png",

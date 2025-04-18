@@ -35,7 +35,6 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Daily Life",
     "//Study",
     "//Tags",
     "//College/College/Tugas Akhir",
@@ -55,7 +54,8 @@
     "//Misc/Misc/Jualan",
     "//Misc/Misc/Assets",
     "//Misc/Misc/Tips And Trick",
-    "//Misc/Misc/IDK"
+    "//Misc/Misc/IDK",
+    "//Daily Life"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

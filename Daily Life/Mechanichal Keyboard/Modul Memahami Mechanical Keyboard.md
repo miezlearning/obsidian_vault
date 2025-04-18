@@ -228,3 +228,4 @@ Sebagai pemula, kamu bisa merekomendasikan keyboard berdasarkan kebutuhan penggu
 
 Mechanical keyboard adalah hobi yang menyenangkan tapi bisa membingungkan di awal. Mulailah dengan memahami switch (Blue, Red, Brown), keycaps (ABS vs. PBT), dan layout (Full-size, TKL, 60%). Dengan modul ini, kamu bisa memahami diskusi komunitas dan merekomendasikan keyboard dengan percaya diri. Jika ada pertanyaan, tanyakan di komunitas atau kembangkan pengetahuanmu dengan eksperimen kecil!
 
+Credit : Miez / @miezlipp

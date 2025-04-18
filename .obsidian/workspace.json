@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
+                "file": "Daily Life/Mechanichal Keyboard/Kesalahan Pemula Memilih Keyboard Mechanic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Modul Memahami Mechanical Keyboard"
+              "title": "Kesalahan Pemula Memilih Keyboard Mechanic"
             }
           }
         ],
@@ -249,8 +249,9 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
-    "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
+    "Daily Life/Mechanichal Keyboard/Kesalahan Pemula Memilih Keyboard Mechanic.md",
     "Daily Life/Mechanichal Keyboard/Mechanichal Keyboard.md",
+    "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
     "Daily Life/Mechanichal Keyboard",
     "Misc/IDK/Perbaikan Class Diagram Dapin.md",
     "Misc/IDK/IDK.md",
@@ -278,7 +279,6 @@
     "College/Machine Learning/Catatan Pertemuan 3.md",
     "College/Machine Learning/Overfitting.md",
     "College/Machine Learning/Untitled 1.md",
-    "College/Machine Learning/Untitled.md",
     "College/PKL",
     "College/Multimedia",
     "Data Preparation-Romi.pdf",

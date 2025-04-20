@@ -2,9 +2,15 @@
 aliases:
   - "Modul: Memahami Mechanical Keyboard"
 ---
-
+![[Pasted image 20250419042226.png]]
 
 Selamat datang di dunia mechanical keyboard! Modul ini akan membantu kamu memahami dasar-dasar mechanical keyboard, istilah yang sering digunakan di komunitas, dan cara merekomendasikan keyboard yang tepat untuk berbagai kebutuhan. Modul ini dibagi menjadi beberapa bagian agar mudah diikuti.
+
+
+
+
+
+
 
 ## Bagian 1: Apa Itu Mechanical Keyboard?
 

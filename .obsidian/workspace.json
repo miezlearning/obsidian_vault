@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
+                "file": "Misc/IDK/untuk jawir pbo tugas sederhana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Modul Memahami Mechanical Keyboard"
+              "title": "untuk jawir pbo tugas sederhana"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "dde26eaf6f8b39bf",
+            "id": "9bb4e85f0a596dab",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -249,9 +249,11 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
+    "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
+    "Misc/IDK/untuk jawir pbo tugas sederhana.md",
+    "Pasted image 20250419042226.png",
     "Daily Life/Mechanichal Keyboard/Kesalahan Pemula Memilih Keyboard Mechanic.md",
     "Daily Life/Mechanichal Keyboard/Mechanichal Keyboard.md",
-    "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
     "Daily Life/Mechanichal Keyboard",
     "Misc/IDK/Perbaikan Class Diagram Dapin.md",
     "Misc/IDK/IDK.md",
@@ -278,7 +280,6 @@
     "College/Machine Learning/Catatan Kelas Pertemuan 2.md",
     "College/Machine Learning/Catatan Pertemuan 3.md",
     "College/Machine Learning/Overfitting.md",
-    "College/Machine Learning/Untitled 1.md",
     "College/PKL",
     "College/Multimedia",
     "Data Preparation-Romi.pdf",
@@ -294,7 +295,6 @@
     "Pasted image 20250210131001.png",
     "Pasted image 20250110220438.png",
     "Misc/Assets/Pasted image 20250110220405.png",
-    "Misc/Assets/420356b845a88627f767c78ee9285965.gif",
     "Untitled.canvas"
   ]
 }

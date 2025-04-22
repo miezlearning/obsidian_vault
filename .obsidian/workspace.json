@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/IDK/untuk jawir pbo tugas sederhana.md",
+                "file": "Misc/IDK/raplot erd.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "untuk jawir pbo tugas sederhana"
+              "title": "raplot erd"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "8c2efb92d3df5016",
+            "id": "485605910bddff74",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -143,8 +143,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,8 +248,11 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
-    "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
+    "Misc/IDK/raplot erd.md",
+    "Untitled",
+    "Untitled.canvas",
     "Misc/IDK/untuk jawir pbo tugas sederhana.md",
+    "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
     "Pasted image 20250419042226.png",
     "Daily Life/Mechanichal Keyboard/Kesalahan Pemula Memilih Keyboard Mechanic.md",
     "Daily Life/Mechanichal Keyboard/Mechanichal Keyboard.md",
@@ -279,13 +281,11 @@
     "College/Machine Learning/Catatan Kelas Pertemuan 1.md",
     "College/Machine Learning/Catatan Kelas Pertemuan 2.md",
     "College/Machine Learning/Catatan Pertemuan 3.md",
-    "College/Machine Learning/Overfitting.md",
     "College/PKL",
     "College/Multimedia",
     "Data Preparation-Romi.pdf",
     "DBS Coding Camp 2025",
     "~$ta Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",
-    "Data Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",
     "Pasted image 20250215110107.png",
     "Pasted image 20250213095829.png",
     "Pasted image 20250213095818.png",
@@ -294,7 +294,6 @@
     "Pasted image 20250213080147.png",
     "Pasted image 20250210131001.png",
     "Pasted image 20250110220438.png",
-    "Misc/Assets/Pasted image 20250110220405.png",
-    "Untitled.canvas"
+    "Misc/Assets/Pasted image 20250110220405.png"
   ]
 }

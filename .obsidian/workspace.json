@@ -78,9 +78,45 @@
               "icon": "lucide-file",
               "title": "Cara Fix Error Mark Web Visual Studio"
             }
+          },
+          {
+            "id": "efcf2243ac696670",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
+            "id": "bb6dccd53d5652b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Capstone/Penjelasan Alur.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Penjelasan Alur"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             }
           },
           {
-            "id": "f372b71601c86963",
+            "id": "fefed011721a0f24",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -247,8 +283,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bddc7208e807950e",
+  "active": "bb6dccd53d5652b4",
   "lastOpenFiles": [
+    "College/Capstone/Penjelasan Alur.md",
+    "College/Capstone/Capstone.md",
+    "College/Capstone",
     "Misc/IDK/raplot erd.md",
     "Misc/Tips And Trick/Cara Fix Error Mark Web Visual Studio.md",
     "Untitled",
@@ -280,13 +319,10 @@
     "College/KKN/Catatan Penulisan Proposal.md",
     "College/Machine Learning/Perbedaan 3 Model Machine Learning.md",
     "College/KKN",
-    "College/Machine Learning/Catatan Kelas Pertemuan 1.md",
-    "College/Machine Learning/Catatan Kelas Pertemuan 2.md",
     "College/PKL",
     "College/Multimedia",
     "Data Preparation-Romi.pdf",
     "DBS Coding Camp 2025",
-    "~$ta Dasar Puskesmas Provinsi Kalimantan Timur Tahun 2020.docx",
     "Pasted image 20250215110107.png",
     "Pasted image 20250213095829.png",
     "Pasted image 20250213095818.png",

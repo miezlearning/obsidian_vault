@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Tips And Trick/Cara Fix Error Mark Web Visual Studio.md",
+                "file": "College/Kapita Selekta/Apa itu Kapita Selekta.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,39 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cara Fix Error Mark Web Visual Studio"
-            }
-          },
-          {
-            "id": "efcf2243ac696670",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
-            "id": "bb6dccd53d5652b4",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "Apa itu Kapita Selekta"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,10 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Garbage Collection.md"
+                "file": "College/Kapita Selekta/Apa itu Kapita Selekta.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Garbage Collection"
+              "title": "Outline of Apa itu Kapita Selekta"
             }
           },
           {
@@ -252,6 +227,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "467c6e8537c30909",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -275,17 +260,23 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bb6dccd53d5652b4",
+  "active": "9d404bf0ab4cf0c8",
   "lastOpenFiles": [
-    "College/DBS Coding Camp 2025/Tugas SS6.md",
+    "College/Untitled Kanban 2.md",
+    "College/Kapita Selekta/Apa itu Kapita Selekta.md",
+    "Untitled Kanban 1.md",
     "Untitled Kanban.md",
+    "Misc/Tips And Trick/Cara Fix Error Mark Web Visual Studio.md",
+    "Vault.md",
+    "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
+    "College/KKN/Folder Drive Kelompok KKN.md",
+    "College/DBS Coding Camp 2025/Tugas SS6.md",
     "College/Capstone/Penjelasan Alur.md",
     "College/DBS Coding Camp 2025/DBS Coding Camp 2025.md",
     "College/DBS Coding Camp 2025",
     "College/Capstone/Capstone.md",
     "College/Capstone",
     "Misc/IDK/raplot erd.md",
-    "Misc/Tips And Trick/Cara Fix Error Mark Web Visual Studio.md",
     "Untitled",
     "Untitled.canvas",
     "Misc/IDK/untuk jawir pbo tugas sederhana.md",
@@ -296,21 +287,15 @@
     "Daily Life/Mechanichal Keyboard",
     "Misc/IDK/Perbaikan Class Diagram Dapin.md",
     "Misc/IDK/IDK.md",
-    "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "Misc/IDK/Saran Perbaikan ERD Raplot.md",
     "College/Data Mining/Tugas 1 Data Mining 2209106127_Muhammad Alif.md",
     "Misc/IDK",
     "College/Machine Learning/Apa itu Machine Learning.md",
     "College/Data Mining/Catatan Pertemuan 2.md",
     "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
-    "College/Kapita Selekta/Apa itu Kapita Selekta.md",
     "College/Kapita Selekta/Catatan Pertemuan 1.md",
     "Misc/Tips And Trick/Tips Pemeriksaan HP JB.md",
-    "Misc/Tips And Trick/Tips And Trick.md",
     "Misc/Tips And Trick",
-    "Misc/Excalidraw/Drawing 2025-01-10 20.49.34.excalidraw.md",
-    "College/KKN/Folder Drive Kelompok KKN.md",
-    "College/KKN/KKN.md",
     "College/KKN",
     "College/PKL",
     "College/Multimedia",

@@ -95,24 +95,16 @@
             "id": "bb6dccd53d5652b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "College/Capstone/Penjelasan Alur.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
                 }
               },
-              "icon": "lucide-file",
-              "title": "Penjelasan Alur"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ],
@@ -170,7 +162,7 @@
             }
           },
           {
-            "id": "fefed011721a0f24",
+            "id": "ceca16944610b1ff",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -285,7 +277,11 @@
   },
   "active": "bb6dccd53d5652b4",
   "lastOpenFiles": [
+    "College/DBS Coding Camp 2025/Tugas SS6.md",
+    "Untitled Kanban.md",
     "College/Capstone/Penjelasan Alur.md",
+    "College/DBS Coding Camp 2025/DBS Coding Camp 2025.md",
+    "College/DBS Coding Camp 2025",
     "College/Capstone/Capstone.md",
     "College/Capstone",
     "Misc/IDK/raplot erd.md",
@@ -315,14 +311,10 @@
     "Misc/Excalidraw/Drawing 2025-01-10 20.49.34.excalidraw.md",
     "College/KKN/Folder Drive Kelompok KKN.md",
     "College/KKN/KKN.md",
-    "College/KKN/Contoh Proposal.md",
-    "College/KKN/Catatan Penulisan Proposal.md",
-    "College/Machine Learning/Perbedaan 3 Model Machine Learning.md",
     "College/KKN",
     "College/PKL",
     "College/Multimedia",
     "Data Preparation-Romi.pdf",
-    "DBS Coding Camp 2025",
     "Pasted image 20250215110107.png",
     "Pasted image 20250213095829.png",
     "Pasted image 20250213095818.png",

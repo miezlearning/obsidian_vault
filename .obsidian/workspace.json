@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/KKN/Cara Install Laravel 10 dan Menggunakan Laragon.md",
+                "file": "College/KKN/Penjelasan Struktur Laravel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cara Install Laravel 10 dan Menggunakan Laragon"
+              "title": "Penjelasan Struktur Laravel"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "18838c8b2a3cb120",
+            "id": "26cd16ad782263be",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -262,8 +262,9 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
-    "College/Kapita Selekta/Apa itu Kapita Selekta.md",
     "College/KKN/Cara Install Laravel 10 dan Menggunakan Laragon.md",
+    "College/KKN/Penjelasan Struktur Laravel.md",
+    "College/Kapita Selekta/Apa itu Kapita Selekta.md",
     "College/Untitled Kanban 2.md",
     "Untitled Kanban 1.md",
     "Untitled Kanban.md",
@@ -294,7 +295,6 @@
     "College/Machine Learning/Apa itu Machine Learning.md",
     "College/Data Mining/Catatan Pertemuan 2.md",
     "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
-    "College/Kapita Selekta/Catatan Pertemuan 1.md",
     "Misc/Tips And Trick",
     "College/KKN",
     "College/PKL",

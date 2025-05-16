@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Kapita Selekta/Apa itu Kapita Selekta.md",
+                "file": "College/KKN/Cara Install Laravel 10 dan Menggunakan Laragon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Apa itu Kapita Selekta"
+              "title": "Cara Install Laravel 10 dan Menggunakan Laragon"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "ceca16944610b1ff",
+            "id": "18838c8b2a3cb120",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -260,10 +260,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9d404bf0ab4cf0c8",
+  "active": "bddc7208e807950e",
   "lastOpenFiles": [
-    "College/Untitled Kanban 2.md",
     "College/Kapita Selekta/Apa itu Kapita Selekta.md",
+    "College/KKN/Cara Install Laravel 10 dan Menggunakan Laragon.md",
+    "College/Untitled Kanban 2.md",
     "Untitled Kanban 1.md",
     "Untitled Kanban.md",
     "Misc/Tips And Trick/Cara Fix Error Mark Web Visual Studio.md",
@@ -294,7 +295,6 @@
     "College/Data Mining/Catatan Pertemuan 2.md",
     "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
     "College/Kapita Selekta/Catatan Pertemuan 1.md",
-    "Misc/Tips And Trick/Tips Pemeriksaan HP JB.md",
     "Misc/Tips And Trick",
     "College/KKN",
     "College/PKL",

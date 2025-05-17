@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/KKN/Penjelasan Struktur Laravel.md",
+                "file": "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Penjelasan Struktur Laravel"
+              "title": "Fungsi Menghapus Composer Lock dan Vendor"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "26cd16ad782263be",
+            "id": "fc363d8de397ad28",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -262,8 +262,12 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
-    "College/KKN/Cara Install Laravel 10 dan Menggunakan Laragon.md",
+    "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
+    "College/KKN/KKN.md",
+    "College/KKN/Cara Upgrade dan Downgrade Laravel.md",
     "College/KKN/Penjelasan Struktur Laravel.md",
+    "College/KKN/.md",
+    "College/KKN/Cara Install Laravel 10 dan Menggunakan Laragon.md",
     "College/Kapita Selekta/Apa itu Kapita Selekta.md",
     "College/Untitled Kanban 2.md",
     "Untitled Kanban 1.md",
@@ -290,11 +294,7 @@
     "Misc/IDK/Perbaikan Class Diagram Dapin.md",
     "Misc/IDK/IDK.md",
     "Misc/IDK/Saran Perbaikan ERD Raplot.md",
-    "College/Data Mining/Tugas 1 Data Mining 2209106127_Muhammad Alif.md",
     "Misc/IDK",
-    "College/Machine Learning/Apa itu Machine Learning.md",
-    "College/Data Mining/Catatan Pertemuan 2.md",
-    "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
     "Misc/Tips And Trick",
     "College/KKN",
     "College/PKL",

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
+                "file": "College/KKN/Cara Install Project.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fungsi Menghapus Composer Lock dan Vendor"
+              "title": "Cara Install Project"
             }
           }
         ],
@@ -263,6 +263,7 @@
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
     "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
+    "College/KKN/Cara Install Project.md",
     "College/KKN/KKN.md",
     "College/KKN/Cara Upgrade dan Downgrade Laravel.md",
     "College/KKN/Penjelasan Struktur Laravel.md",
@@ -293,7 +294,6 @@
     "Daily Life/Mechanichal Keyboard",
     "Misc/IDK/Perbaikan Class Diagram Dapin.md",
     "Misc/IDK/IDK.md",
-    "Misc/IDK/Saran Perbaikan ERD Raplot.md",
     "Misc/IDK",
     "Misc/Tips And Trick",
     "College/KKN",

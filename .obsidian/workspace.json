@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/KKN/Cara Install Project.md",
+                "file": "College/Capstone/Catatan Sesi Mentoring.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cara Install Project"
+              "title": "Catatan Sesi Mentoring"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "fc363d8de397ad28",
+            "id": "b372db58476aca18",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -262,8 +262,10 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
-    "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
+    "College/Capstone/Catatan Sesi Mentoring.md",
+    "College/Capstone/Capstone.md",
     "College/KKN/Cara Install Project.md",
+    "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
     "College/KKN/KKN.md",
     "College/KKN/Cara Upgrade dan Downgrade Laravel.md",
     "College/KKN/Penjelasan Struktur Laravel.md",
@@ -281,7 +283,6 @@
     "College/Capstone/Penjelasan Alur.md",
     "College/DBS Coding Camp 2025/DBS Coding Camp 2025.md",
     "College/DBS Coding Camp 2025",
-    "College/Capstone/Capstone.md",
     "College/Capstone",
     "Misc/IDK/raplot erd.md",
     "Untitled",
@@ -293,7 +294,6 @@
     "Daily Life/Mechanichal Keyboard/Mechanichal Keyboard.md",
     "Daily Life/Mechanichal Keyboard",
     "Misc/IDK/Perbaikan Class Diagram Dapin.md",
-    "Misc/IDK/IDK.md",
     "Misc/IDK",
     "Misc/Tips And Trick",
     "College/KKN",

@@ -152,3 +152,54 @@ Fokus ke titik f1 score ,
 ![[{D0C64277-5228-487E-99FC-5E43D28B6453}.png]]
 
 false report , outliers, data stoge perlu diperhatikan, perhatikan pola, kalau regresi ada diluar pola
+
+
+
+
+1. **Karyawan**
+    
+    - ID_Karyawan (Primary Key)
+        
+    - Nama_Karyawan
+        
+2. **Produk (Menu)**
+    
+    - ID_Produk (Primary Key)
+        
+    - Nama_Produk
+        
+    - Harga
+        
+3. **Transaksi (Penjualan)**
+    
+    - ID_Transaksi (Primary Key)
+        
+    - ID_Karyawan (Foreign Key ke Karyawan)
+        
+    - Tanggal_Waktu
+        
+    - Total_Bayar
+        
+    - Metode_Pembayaran (Opsional, tapi biasanya penting)
+        
+4. **Detail_Transaksi** (Item yang terjual dalam satu transaksi)
+    
+    - ID_Transaksi (Foreign Key ke Transaksi, bagian dari Composite Primary Key)
+        
+    - ID_Produk (Foreign Key ke Produk, bagian dari Composite Primary Key)
+        
+    - Jumlah
+        
+    - Harga_Satuan_Saat_Beli (Harga produk saat transaksi itu terjadi)
+        
+    - Subtotal_Item (Jumlah * Harga_Satuan_Saat_Beli)
+
+
+
+- **Pelanggan ke Pesanan:** Satu Pelanggan bisa memiliki Banyak Pesanan (1 to N). Satu Pesanan dimiliki oleh Satu Pelanggan (atau tidak ada jika pelanggan umum).
+    
+- **Karyawan ke Pesanan:** Satu Karyawan bisa melayani Banyak Pesanan (1 to N). Satu Pesanan dilayani oleh Satu Karyawan.
+    
+- **Pesanan ke Detail_Pesanan:** Satu Pesanan terdiri dari Banyak Detail_Pesanan (1 to N). Setiap Detail_Pesanan merujuk ke Satu Pesanan.
+    
+- **Produk ke Detail_Pesanan:** Satu Produk bisa muncul di Banyak Detail_Pesanan (1 to N). Setiap Detail_Pesanan merujuk ke Satu Produk.

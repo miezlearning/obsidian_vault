@@ -59,24 +59,12 @@
             "id": "bddc7208e807950e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "College/Capstone/Catatan Sesi Mentoring.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "College/Tugas Akhir/Dokumen Persyaratan"
               },
               "icon": "lucide-file",
-              "title": "Catatan Sesi Mentoring"
+              "title": "Dokumen Persyaratan"
             }
           }
         ],
@@ -134,7 +122,7 @@
             }
           },
           {
-            "id": "9e1ba25c2e77f90a",
+            "id": "0ccbb886b506f940",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -260,13 +248,16 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bddc7208e807950e",
+  "active": "0ccbb886b506f940",
   "lastOpenFiles": [
+    "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
+    "College/Tugas Akhir/Prototype Skripsi",
+    "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
+    "College/Capstone/Catatan Sesi Mentoring.md",
     "{D0C64277-5228-487E-99FC-5E43D28B6453}.png",
     "College/Capstone/Penjelasan Alur.md",
     "College/Capstone/Capstone.md",
     "College/Kapita Selekta/Catatan Pertemuan 1.md",
-    "College/Capstone/Catatan Sesi Mentoring.md",
     "College/KKN/Cara Install Project.md",
     "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
     "College/KKN/KKN.md",
@@ -280,7 +271,6 @@
     "Untitled Kanban.md",
     "Misc/Tips And Trick/Cara Fix Error Mark Web Visual Studio.md",
     "Vault.md",
-    "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "College/KKN/Folder Drive Kelompok KKN.md",
     "College/DBS Coding Camp 2025/Tugas SS6.md",
     "College/DBS Coding Camp 2025/DBS Coding Camp 2025.md",
@@ -299,7 +289,6 @@
     "College/KKN",
     "College/PKL",
     "College/Multimedia",
-    "Data Preparation-Romi.pdf",
     "Pasted image 20250215110107.png",
     "Pasted image 20250213095829.png",
     "Pasted image 20250213095818.png",
@@ -307,7 +296,6 @@
     "Pasted image 20250213080202.png",
     "Pasted image 20250213080147.png",
     "Pasted image 20250210131001.png",
-    "Pasted image 20250110220438.png",
-    "Misc/Assets/Pasted image 20250110220405.png"
+    "Pasted image 20250110220438.png"
   ]
 }

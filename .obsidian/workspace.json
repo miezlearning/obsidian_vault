@@ -59,12 +59,24 @@
             "id": "bddc7208e807950e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "College/PKL/Muhammad_Alif_2209106127_Laporan PKL - Copy (1).pdf"
+                "file": "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Muhammad_Alif_2209106127_Laporan PKL - Copy (1)"
+              "icon": "lucide-file",
+              "title": "Rencana Judul Skripsi"
             }
           }
         ],

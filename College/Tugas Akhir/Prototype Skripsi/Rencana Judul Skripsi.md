@@ -16,3 +16,7 @@ Sebagai bentuk awal untuk melakukan tugas akhir, aku perlu melakukan **Gathering
 
 
 ---
+# Log 
+> https://aistudio.google.com/prompts/1UyfwFwMiiydwJ7fFmP6AqfsbwzQppw2o
+> https://docs.google.com/document/d/1gFpddwjt3maxgfMQdSFnOajUuvolOdne/edit?tab=t.0
+> 

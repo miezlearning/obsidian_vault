@@ -59,12 +59,12 @@
             "id": "bddc7208e807950e",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "pdf",
               "state": {
-                "path": "College/Tugas Akhir/Dokumen Persyaratan"
+                "file": "College/PKL/Muhammad_Alif_2209106127_Laporan PKL - Copy (1).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Dokumen Persyaratan"
+              "icon": "lucide-file-text",
+              "title": "Muhammad_Alif_2209106127_Laporan PKL - Copy (1)"
             }
           }
         ],
@@ -248,8 +248,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0ccbb886b506f940",
+  "active": "bddc7208e807950e",
   "lastOpenFiles": [
+    "College/PKL/Muhammad_Alif_2209106127_Laporan PKL - Copy (1).pdf",
+    "College/PKL/PKL.md",
+    "College/PKL/Catatan Awal.md",
+    "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
     "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
     "College/Tugas Akhir/Prototype Skripsi",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
@@ -276,13 +280,9 @@
     "College/DBS Coding Camp 2025/DBS Coding Camp 2025.md",
     "College/DBS Coding Camp 2025",
     "College/Capstone",
-    "Misc/IDK/raplot erd.md",
     "Untitled",
     "Untitled.canvas",
-    "Misc/IDK/untuk jawir pbo tugas sederhana.md",
-    "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
     "Pasted image 20250419042226.png",
-    "Daily Life/Mechanichal Keyboard/Kesalahan Pemula Memilih Keyboard Mechanic.md",
     "Daily Life/Mechanichal Keyboard",
     "Misc/IDK",
     "Misc/Tips And Trick",

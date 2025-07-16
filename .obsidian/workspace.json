@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
+                "file": "Misc/Tools/Caprover.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rencana Judul Skripsi"
+              "title": "Caprover"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "0ccbb886b506f940",
+            "id": "00c39fb8cf065e83",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -262,6 +262,10 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
+    "Pasted image 20250716112928.png",
+    "Misc/Tools/Caprover.md",
+    "Misc/Tools/Tools.md",
+    "Misc/Tools",
     "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
     "College/PKL/Muhammad_Alif_2209106127_Laporan PKL - Copy (1).pdf",
     "College/PKL/PKL.md",
@@ -288,8 +292,6 @@
     "Misc/Tips And Trick/Cara Fix Error Mark Web Visual Studio.md",
     "Vault.md",
     "College/KKN/Folder Drive Kelompok KKN.md",
-    "College/DBS Coding Camp 2025/Tugas SS6.md",
-    "College/DBS Coding Camp 2025/DBS Coding Camp 2025.md",
     "College/DBS Coding Camp 2025",
     "College/Capstone",
     "Untitled",
@@ -299,7 +301,6 @@
     "Misc/IDK",
     "Misc/Tips And Trick",
     "College/KKN",
-    "College/PKL",
     "Pasted image 20250215110107.png",
     "Pasted image 20250213095829.png",
     "Pasted image 20250213095818.png",

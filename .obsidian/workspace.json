@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Tools/Caprover.md",
+                "file": "College/KKN/Persiapan Presentasi DISKOMINFO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Caprover"
+              "title": "Persiapan Presentasi DISKOMINFO"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "00c39fb8cf065e83",
+            "id": "9b481577fb45e32f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -262,8 +262,12 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
-    "Pasted image 20250716112928.png",
+    "College/Machine Learning/Machine Learning.md",
+    "College/Data Mining/Major Tasks dalam Data Processing.md",
+    "College/KKN/Persiapan Presentasi DISKOMINFO.md",
+    "Misc/Tools/Nix.md",
     "Misc/Tools/Caprover.md",
+    "Pasted image 20250716112928.png",
     "Misc/Tools/Tools.md",
     "Misc/Tools",
     "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
@@ -289,9 +293,6 @@
     "College/Untitled Kanban 2.md",
     "Untitled Kanban 1.md",
     "Untitled Kanban.md",
-    "Misc/Tips And Trick/Cara Fix Error Mark Web Visual Studio.md",
-    "Vault.md",
-    "College/KKN/Folder Drive Kelompok KKN.md",
     "College/DBS Coding Camp 2025",
     "College/Capstone",
     "Untitled",
@@ -307,7 +308,6 @@
     "Pasted image 20250213095804.png",
     "Pasted image 20250213080202.png",
     "Pasted image 20250213080147.png",
-    "Pasted image 20250210131001.png",
-    "Pasted image 20250110220438.png"
+    "Pasted image 20250210131001.png"
   ]
 }

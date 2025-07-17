@@ -59,7 +59,9 @@
     "//College/College/Tugas Akhir",
     "//College/College/Tugas Akhir/College/Tugas Akhir/Dokumen Persyaratan",
     "//College/College/Tugas Akhir/College/Tugas Akhir/Prototype Skripsi",
-    "//College/College/PKL"
+    "//College/College/PKL",
+    "//Misc/Misc/Tools",
+    "//College"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

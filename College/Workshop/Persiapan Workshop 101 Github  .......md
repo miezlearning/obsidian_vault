@@ -10,7 +10,7 @@ aliases:
 - Materi basic usage.
 - Kapasitas Maksimal 30 Orang
 - Pembagian Kelompok 5 orang per kelompok
-- posttest atau pekerjaan rumah soal dari kami
+- posttest atau pekerjaan rumah soal dari kami setelah selesai kegiatan
 
 # Outline Materi
 - **Pengenalan Github**

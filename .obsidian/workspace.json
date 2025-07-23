@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/KKN/Persiapan Presentasi DISKOMINFO.md",
+                "file": "College/Workshop/Persiapan Workshop 101 Github  .......md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Persiapan Presentasi DISKOMINFO"
+              "title": "Persiapan Workshop 101 Github  ......"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "9b481577fb45e32f",
+            "id": "f687686395843b9a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -262,11 +262,22 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
-    "College/Machine Learning/Machine Learning.md",
-    "College/Data Mining/Major Tasks dalam Data Processing.md",
+    "College/Workshop/git remote -v- git remo.md",
+    "College/Workshop/Persiapan Workshop 101 Github  .......md",
+    "College/Workshop/Workshop.md",
     "College/KKN/Persiapan Presentasi DISKOMINFO.md",
+    "College/Workshop",
+    "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
+    "College/Data Mining/Catatan Pertemuan 1.md",
+    "College/DBS Coding Camp 2025/Tugas SS6.md",
     "Misc/Tools/Nix.md",
     "Misc/Tools/Caprover.md",
+    "Daily Life/Mechanichal Keyboard/Kesalahan Pemula Memilih Keyboard Mechanic.md",
+    "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
+    "College/Capstone/Catatan Sesi Mentoring.md",
+    "College/Capstone/Penjelasan Alur.md",
+    "College/Machine Learning/Machine Learning.md",
+    "College/Data Mining/Major Tasks dalam Data Processing.md",
     "Pasted image 20250716112928.png",
     "Misc/Tools/Tools.md",
     "Misc/Tools",
@@ -277,22 +288,12 @@
     "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
     "College/Tugas Akhir/Prototype Skripsi",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
-    "College/Capstone/Catatan Sesi Mentoring.md",
     "{D0C64277-5228-487E-99FC-5E43D28B6453}.png",
-    "College/Capstone/Penjelasan Alur.md",
     "College/Capstone/Capstone.md",
     "College/Kapita Selekta/Catatan Pertemuan 1.md",
     "College/KKN/Cara Install Project.md",
     "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
     "College/KKN/KKN.md",
-    "College/KKN/Cara Upgrade dan Downgrade Laravel.md",
-    "College/KKN/Penjelasan Struktur Laravel.md",
-    "College/KKN/.md",
-    "College/KKN/Cara Install Laravel 10 dan Menggunakan Laragon.md",
-    "College/Kapita Selekta/Apa itu Kapita Selekta.md",
-    "College/Untitled Kanban 2.md",
-    "Untitled Kanban 1.md",
-    "Untitled Kanban.md",
     "College/DBS Coding Camp 2025",
     "College/Capstone",
     "Untitled",
@@ -301,7 +302,6 @@
     "Daily Life/Mechanichal Keyboard",
     "Misc/IDK",
     "Misc/Tips And Trick",
-    "College/KKN",
     "Pasted image 20250215110107.png",
     "Pasted image 20250213095829.png",
     "Pasted image 20250213095818.png",

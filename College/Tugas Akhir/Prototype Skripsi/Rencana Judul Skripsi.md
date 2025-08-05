@@ -23,6 +23,9 @@ Besok lakukan pencarian/riset judul mengenai analisis sentimen, evaluasi project
 
 Dari project sebelumnya, jadikan bahan referensi untuk diskusi dengan dosen pembimbing mengenai judul yang akan diambil. 
 
+### Catatan Second Step.
+> Konsep generative AI juga bisa dipakai sebagai bahan skripsi judul.
+
 ---
 # Log 
 > https://aistudio.google.com/prompts/1UyfwFwMiiydwJ7fFmP6AqfsbwzQppw2o

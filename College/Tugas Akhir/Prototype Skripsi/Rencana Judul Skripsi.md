@@ -13,7 +13,15 @@ Sebagai bentuk awal untuk melakukan tugas akhir, aku perlu melakukan **Gathering
 > 
 > Untuk melakukan riset, itu tidak harus dalam skala nasional, tapi coba cari tahu daerah sendiri seperti di kalimantan timur yang terkenal dengan industri pertambangan perkebunan, kehutanan, dan kini ibukota negara baru.
 
+# Second Step.
 
+Besok lakukan pencarian/riset judul mengenai analisis sentimen, evaluasi project yang pernah dibuat, salah satunya :
+
+- Rekomendasi dan Tidak Rekomendasi Aplikasi Pinjol
+- Website Pelaporan Kerusakan Jalan ( UPTD DPUPR Jalan dan Jembatan)
+- Modyan ( Aplikasi tentang pencatatan mood dan generative AI memberi rekomendasi kegiatan)
+
+Dari project sebelumnya, jadikan bahan referensi untuk diskusi dengan dosen pembimbing mengenai judul yang akan diambil. 
 
 ---
 # Log 

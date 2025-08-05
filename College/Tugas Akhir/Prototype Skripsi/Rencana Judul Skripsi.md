@@ -23,6 +23,15 @@ Besok lakukan pencarian/riset judul mengenai analisis sentimen, evaluasi project
 
 Dari project sebelumnya, jadikan bahan referensi untuk diskusi dengan dosen pembimbing mengenai judul yang akan diambil. 
 
+
+## Ask Kating 
+Pada tahap pertama, tanyakan bagaimana proses mereka melalui tugas akhir, dari awal hingga akhir. (tanyakan juga yang sedang berjalan, walaupun ada yang masih stuck) Jika ada yang masih stuck, tanyakan apa kendala mereka yang menyebabkan mandek proses mereka. 
+
+**Apa yang ditanyakan?**
+- Apa saja yang harus dilalui seperti tahap pengajuan
+- Apa saja berkas yang perlu dipersiapkan
+- Mental apa yang dibutuhkan
+- Pertanyaan apa yang sering ditanyakan saat seminar proposal maupun hasil
 ### Catatan Second Step.
 > Konsep generative AI juga bisa dipakai sebagai bahan skripsi judul.
 

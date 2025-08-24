@@ -70,5 +70,4 @@ git config --global user.email "nama@email.com"
 
 # Soal
 
-## 📝 Soal Kelompok
-> 	
+https://github.com/miezlearning/workshop-github-ai/tree/master

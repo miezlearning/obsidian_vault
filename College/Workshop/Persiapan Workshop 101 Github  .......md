@@ -42,6 +42,7 @@ git config --global user.email "nama@email.com"
 	- git add
 	- git status
 	- git commit 
+     - Conventional Commmits
 	- git log 
 	- git clone
 - **Branching**
@@ -63,4 +64,11 @@ git config --global user.email "nama@email.com"
 	- Issues
 - **Github Action** (Bonus)
 	- **Github Pages**
-	
+
+
+
+
+# Soal
+
+## 📝 Soal Kelompok
+> 	

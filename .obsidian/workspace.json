@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
+                "file": "College/Workshop/Persiapan Workshop 101 Github .md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rencana Judul Skripsi"
+              "title": "Persiapan Workshop 101 Github"
             }
           }
         ],
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "adcb01b2c25c5fc3",
+            "id": "8608f244ac8d57d4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -262,10 +262,13 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
-    "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
-    "College/Workshop/Persiapan Workshop 101 Github  .......md",
-    "College/Workshop/git remote -v- git remo.md",
+    "Study/Garbage Collection.md",
     "College/Workshop/Workshop.md",
+    "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
+    "College/Capstone/Catatan Sesi Mentoring.md",
+    "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
+    "College/Workshop/Persiapan Workshop 101 Github .md",
+    "College/Workshop/git remote -v- git remo.md",
     "College/KKN/Persiapan Presentasi DISKOMINFO.md",
     "College/Workshop",
     "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
@@ -275,14 +278,12 @@
     "Misc/Tools/Caprover.md",
     "Daily Life/Mechanichal Keyboard/Kesalahan Pemula Memilih Keyboard Mechanic.md",
     "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
-    "College/Capstone/Catatan Sesi Mentoring.md",
     "College/Capstone/Penjelasan Alur.md",
     "College/Machine Learning/Machine Learning.md",
     "College/Data Mining/Major Tasks dalam Data Processing.md",
     "Pasted image 20250716112928.png",
     "Misc/Tools/Tools.md",
     "Misc/Tools",
-    "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
     "College/PKL/Muhammad_Alif_2209106127_Laporan PKL - Copy (1).pdf",
     "College/PKL/PKL.md",
     "College/PKL/Catatan Awal.md",
@@ -293,7 +294,6 @@
     "College/Kapita Selekta/Catatan Pertemuan 1.md",
     "College/KKN/Cara Install Project.md",
     "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
-    "College/KKN/KKN.md",
     "College/DBS Coding Camp 2025",
     "College/Capstone",
     "Untitled",

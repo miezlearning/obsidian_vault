@@ -43,6 +43,7 @@ git config --global user.email "nama@email.com"
 	- git add
 	- git status
 	- git commit 
+     - Conventional Commmits
 	- git log 
 	- git clone
 - **Branching** (ahmad & alif)
@@ -63,6 +64,7 @@ git config --global user.email "nama@email.com"
 	- Review 
 	- Issues
 - **Github Action** (Bonus)
+<<<<<<< HEAD:College/Workshop/Persiapan Workshop 101 Github .md
 	- **Github Pages**'
 - **Github Markdown** (bonus)
 
@@ -75,8 +77,17 @@ Teknis Tambahan :
 - github action alif (jika sempat)
 
 
+=======
+	- **Github Pages**
+>>>>>>> origin/master:College/Workshop/Persiapan Workshop 101 Github  .......md
 
 
 
 
+<<<<<<< HEAD:College/Workshop/Persiapan Workshop 101 Github .md
 
+=======
+# Soal
+
+https://github.com/miezlearning/workshop-github-ai/tree/master
+>>>>>>> origin/master:College/Workshop/Persiapan Workshop 101 Github  .......md

@@ -108,6 +108,22 @@ https://github.com/miezlearning/workshop-github-ai/tree/master
 11. Bang ahmad, lanjut slide berikutnya, menjelaskan flow dari gambar yang ada dislide,
 12. masih melanjutkan ke slide berikutnya menjelaskan 4 area git jika sudah lanjut ke alif
 13. Slide github setup dilanjutkan oleh Alif, jelaskan dari poin 1-2, saat di poin 3 kembali ke git untuk menjelaskan apa itu git config, ketika di poin 4 jelaskan saja tidak perlu membuat filenya (README.md dan semacamnya), poin 5 jelaskan apa itu git init (tanyakan ke pesrta apa yang harus dilakukan untuk menjadikan sebuah repo?), 
+14. lanjut ke slide berikutnya tentang command dasar, disini lgsg balik ke desktop untuk mempersiapkan contoh studi kasus dipraktekkan.
+15. buat sebuah folder workshop-ai, isi satu file aja index.html.
+16. git add, terus jelasin git add itu apa aja argument nya `git add <argument>.
+17. lanjut sampai commit, pas di commit pakai conventional commit, sebelum itu jelaskan dlu conventional commit, contohkan beberapa tipe `feat,fix,docs,` urutan tentang conventional commit :
+    1. Apa itu Conventional Commit (singkat).
+    
+	2. Kenapa penting (manfaat untuk tim & otomatisasi).
+	    
+	3. Format dasarnya.
+	    
+	4. Jenis-jenis yang sering dipakai (**feat, fix, docs, style, refactor, test, chore**).
+	    
+	5. Contoh nyata commit.
+18. lanjut menjelaskan git log setelah melakukan commit di cek terlebih dahulu id commitnya.
+19. selanjutnya untuk git push untuk git pull itu nantinya aja detailnya di bagian kolaborasi
+20. 
 
 # NOTE ALUR : 
 - Jika ingin menambahkan materi, langsung masuk ketika hening 2-3 detik.

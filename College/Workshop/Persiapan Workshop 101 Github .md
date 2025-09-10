@@ -163,7 +163,38 @@ https://github.com/miezlearning/workshop-github-ai/tree/master
 	    - buat file baru `halo.html`.
 	    - lakukan add → commit → push.
 	    - lalu tunjukkan di GitHub bagaimana muncul branch baru & cara bikin Pull Request.
-	    
+## PENUTUP
+
+KESEPKATAN, MAU ALIF ATAU AHMAD.
+- **Wrap Up Singkat**
+    
+    - Ringkas kembali alur besar yang sudah dipelajari:
+        
+        - setup → command dasar → commit → branching → remote → kolaborasi.
+            
+    - Gunakan gaya santai:  
+        _“Nah, itu tadi perjalanan kita dari repo kosong sampai bisa kolaborasi bareng di GitHub. Dari yang awalnya cuma `git init`, sampai akhirnya bisa bikin Pull Request.”_
+        
+- **Apresiasi Peserta**
+    
+    - _“Kalian keren banget bisa ngikutin step by step. Walaupun Git kadang bikin pusing di awal, tapi setelah dipahami enak banget buat kerja tim.”_
+        
+- **Pesan Santai + Motivasi**
+    
+    - _“Git itu bukan ilmu sekali belajar langsung jago, tapi butuh dipakai terus biar terbiasa. Anggap aja kayak nge-gym: kalau jarang latihan, ya ototnya kaku lagi. Jadi sering-sering commit biar otot Git kalian makin kuat..”_ 😆
+        
+- **Ajakan Interaktif**
+    
+    - Bisa tutup dengan challenge kecil:
+        
+        - _“Oke, sebelum kita akhiri, coba semua ketik di chat: `git commit -m "terimakasih"`.”_
+            
+    - Atau: bikin kuis dadakan 1–2 pertanyaan ringan, kasih hadiah kecil (misalnya stiker digital / template cheat sheet Git).
+        
+- **Closing Statement**
+    
+    - _“Ingat, tools seperti Git & GitHub ini akan jadi bekal penting buat kalian kalau masuk ke dunia kerja atau bahkan kolaborasi open source. Jadi teruslah latihan dan jangan takut salah.”_
+    - Akhiri dengan ucapan terima kasih & foto bareng (kalau ada).
   
 # NOTE ALUR : 
 - Jika ingin menambahkan materi, langsung masuk ketika hening 2-3 detik.

@@ -14,28 +14,28 @@ aliases:
 - https://docs.google.com/document/d/1yItTeFhrqS30al1i4c2Psw_eAEvh2nltZnAteiu-FpQ/edit?usp=sharing
 
 # Outline Materi
-- **Pengenalan Github** ( Alif )
-	- Penjelasan Utama ( sedikit ada sejarah saja di mention )
-	- Bedanya Git dan Github
-	- Ekosistem Github : Pull Request, Organization, Repository, Push (disebut aja terus bilang nanti akan dijelaskan)
-	- Contoh Repo Keren
-		- Repo 1 https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
-		- Repo 2 https://github.com/miezlearning/cheat-ais
-- **Pengenalan Git**  (Ahmad )
-	- Penjelasan Utama 
-		- flow dari git (ilustrasi dalam bentuk flowchart)
-		- local
-	- Kapan dipakai git?
-	- materi tentang yang dibawah (*cari istilah)
-		- Istilah Gampang (git add -> git commit -> git push)
+- **Pengenalan Github** ( Alif  & Ahmad )
+	- Pengantar ( alif )
+	- Bedanya Git dan Github (alif )
+	- Sejarah Github (ahmad)
+	- Ekosistem Github : Pull Request, Organization, Repository, Push (disebut aja terus bilang  nanti akan dijelaskan) (ahmad)
+	- Contoh Repo Keren (ahmad)
+		- Repo 1 https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA (ahmad)
+		- Repo 2 https://github.com/miezlearning/cheat-ais (alif)
+	- Penjelasan Utama (ahmad)
+		- flow dari git (ilustrasi dalam bentuk flowchart) (ahmad)
+		- Kenapa menggunakan git? (ahmad)
+	- 4 area
+		- Istilah Gampang (git add -> git commit -> git push) (ahmad)
+	
+-  **Github Setup** (alif)
+	- Buat Akun
+	- buat repo (penjelasan bedanya public dan private)
 	- konfigurasi awal
 ```bash 
 git config --global user.name  "Nama Lengkap"
 git config --global user.email "nama@email.com"
 ```
--  **Github Setup** (alif)
-	- Buat Akun
-	- buat repo (penjelasan bedanya public dan private)
 	- jelasin file konfigurasi :  .gitignore, README.md (mention beberapa aja yg penting cuman 2 itu seperti .env, env_example)
 	- git init (inisiasi)
 	- tips kalau bisa dapat pro menggunakan email kampus
@@ -91,3 +91,26 @@ Teknis Tambahan :
 
 https://github.com/miezlearning/workshop-github-ai/tree/master
 >>>>>>> origin/master:College/Workshop/Persiapan Workshop 101 Github  .......md
+
+
+# Alur Acara :
+
+1. Disclaimer : kalau pemateri adalah teman yang ingin berbagi ilmu.
+2. Ke slide selanjutnya yaitu boleh menggunakan chat gpt selama proses pengerjaan.
+3. Alif selanjutnya pertama melakukan perkenalan, kedua bang ahmad
+4. Pengantar Sebelum Ke Materi Utama 
+5.  Masuk Ke materi, sedikit pengantar lagi untuk git nantinya 
+6. Dilanjutkan oleh bang ahmad menjelaskan materi lanjutan sejarah github 
+7. Bang ahmad ke slide sejarah, menjelaskan secara singkat yang ada di timeline gambar, 
+8. Bang ahmad sebelum lanjut ke slide repo keren, jelasin dulu **Ekosistem Github** disebutkan dan dijelaskan sedikit.
+9. Saat menjelaskan repo keren pertama jelaskan seperti biasa, untuk yang kedua bang ahmad mention/sebut bang alif untuk menjelaskan lebih detail reponya.
+10. Setelah alif selesai menjelaskan repo, alif kembalikan lagi materinya untuk dilanjutkan oleh bang ahmad
+11. Bang ahmad, lanjut slide berikutnya, menjelaskan flow dari gambar yang ada dislide,
+12. masih melanjutkan ke slide berikutnya menjelaskan 4 area git jika sudah lanjut ke alif
+13. Slide github setup dilanjutkan oleh Alif, jelaskan dari poin 1-2, saat di poin 3 kembali ke git untuk menjelaskan apa itu git config, ketika di poin 4 jelaskan saja tidak perlu membuat filenya (README.md dan semacamnya), poin 5 jelaskan apa itu git init (tanyakan ke pesrta apa yang harus dilakukan untuk menjadikan sebuah repo?), 
+
+# NOTE ALUR : 
+- Jika ingin menambahkan materi, langsung masuk ketika hening 2-3 detik.
+- Atau ada isyarat dari temannya jika "ada tambahan kh?".
+- Google meet bang ahmad untuk bagian kolaborasi (https://meet.google.com/vdm-ckir-psn)
+- Alif menjelaskan, bang ahmad melakukan aktivitas ( 1 ngoding 1 jelaskan )

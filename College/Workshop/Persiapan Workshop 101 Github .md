@@ -142,10 +142,37 @@ https://github.com/miezlearning/workshop-github-ai/tree/master
 	- dengan command `git push -u <alias_remote> <nama_branch>`
 	- jiak berhasil, silakan cek repo nya apakah berhasil.
 	- materi selesai.
-22. Selanjutnya ke slide **Kolaborasi**, 
+22. Selanjutnya ke slide **Kolaborasi**,
+	- Mulai dengan teori dulu: _"Kolaborasi berarti kerja bareng dalam satu repository. Kalau sendirian kita bisa langsung push ke main, tapi kalau tim harus pakai aturan biar gak tabrakan."_
+	- Jelaskan alur besar kolaborasi:
+	    1. **Clone repository** → ambil repo dari GitHub ke lokal.
+	        `git clone <link_repo>`
+	    2. **Buat branch baru** → supaya kerja tiap orang terpisah.
+	        `git checkout -b fitur/nama_kalian`
+	    3. **Kerja & commit di branch masing-masing**
+	        - edit file → `git add .` → `git commit -m "feat: tambah fitur abc"`.
+	        `git push origin fitur/nama_kalian`
+	    4. **Pull Request (PR) / Merge Request (MR)** → gabungkan branch ke `main` lewat GitHub.
+	    5. **Merge ke main** → setelah PR diterima, branch masuk ke main.
+	    6. **Update lokal** → setiap anggota tim jalankan:
+	        `git pull origin main`
+	- Tekankan manfaat branching dalam kolaborasi: bisa kerja bareng tanpa mengganggu `main`.
+	- Tunjukkan slide visual (workflow: clone → branch → push → PR → merge → pull).
+	- Praktek cepat:
+	    - tiap peserta buat branch `fitur/nama_mereka`.
+	    - buat file baru `halo.html`.
+	    - lakukan add → commit → push.
+	    - lalu tunjukkan di GitHub bagaimana muncul branch baru & cara bikin Pull Request.
+	    
   
 # NOTE ALUR : 
 - Jika ingin menambahkan materi, langsung masuk ketika hening 2-3 detik.
 - Atau ada isyarat dari temannya jika "ada tambahan kh?".
 - Google meet bang ahmad untuk bagian kolaborasi (https://meet.google.com/vdm-ckir-psn)
 - Alif menjelaskan, bang ahmad melakukan aktivitas ( 1 ngoding 1 jelaskan )
+2301016152
+2001026190
+2001028010
+	2201026065
+2101036121
+2001036229

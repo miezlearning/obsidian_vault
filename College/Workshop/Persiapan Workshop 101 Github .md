@@ -123,7 +123,7 @@ https://github.com/miezlearning/workshop-github-ai/tree/master
 	5. Contoh nyata commit.
 18. lanjut menjelaskan git log setelah melakukan commit di cek terlebih dahulu id commitnya.
 19. selanjutnya untuk git push untuk git pull itu nantinya aja detailnya di bagian kolaborasi
-20. 
+20. selanjutnya, bahas slide branching bahas teori dulu,  saat ini pastikan google meet masih tersambung,
 
 # NOTE ALUR : 
 - Jika ingin menambahkan materi, langsung masuk ketika hening 2-3 detik.

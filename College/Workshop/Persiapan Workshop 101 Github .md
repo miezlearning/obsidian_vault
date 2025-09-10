@@ -188,9 +188,3 @@ KESEPKATAN, MAU ALIF ATAU AHMAD.
 - Atau ada isyarat dari temannya jika "ada tambahan kh?".
 - Google meet bang ahmad untuk bagian kolaborasi (https://meet.google.com/vdm-ckir-psn)
 - Alif menjelaskan, bang ahmad melakukan aktivitas ( 1 ngoding 1 jelaskan )
-2301016152
-2001026190
-2001028010
-	2201026065
-2101036121
-2001036229

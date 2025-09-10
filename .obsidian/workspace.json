@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/IDK/Rangkuman Airot Manajemen Osteoporosis.md",
+                "file": "College/Workshop/Persiapan Workshop 101 Github .md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rangkuman Airot Manajemen Osteoporosis"
+              "title": "Persiapan Workshop 101 Github"
             }
           }
         ],
@@ -263,8 +263,8 @@
   },
   "active": "bddc7208e807950e",
   "lastOpenFiles": [
-    "College/Workshop/Persiapan Workshop 101 Github .md",
     "Misc/IDK/Rangkuman Airot Manajemen Osteoporosis.md",
+    "College/Workshop/Persiapan Workshop 101 Github .md",
     "Pasted image 20250909234848.png",
     "conflict-files-obsidian-git.md",
     "Study/Garbage Collection.md",

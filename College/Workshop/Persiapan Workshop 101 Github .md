@@ -101,30 +101,49 @@ https://github.com/miezlearning/workshop-github-ai/tree/master
 4. Pengantar Sebelum Ke Materi Utama 
 5.  Masuk Ke materi, sedikit pengantar lagi untuk git nantinya 
 6. Dilanjutkan oleh bang ahmad menjelaskan materi lanjutan sejarah github 
-7. Bang ahmad ke slide sejarah, menjelaskan secara singkat yang ada di timeline gambar, 
+7. Bang ahmad ke slide **sejarah**, menjelaskan secara singkat yang ada di timeline gambar, 
 8. Bang ahmad sebelum lanjut ke slide repo keren, jelasin dulu **Ekosistem Github** disebutkan dan dijelaskan sedikit.
 9. Saat menjelaskan repo keren pertama jelaskan seperti biasa, untuk yang kedua bang ahmad mention/sebut bang alif untuk menjelaskan lebih detail reponya.
 10. Setelah alif selesai menjelaskan repo, alif kembalikan lagi materinya untuk dilanjutkan oleh bang ahmad
 11. Bang ahmad, lanjut slide berikutnya, menjelaskan flow dari gambar yang ada dislide,
 12. masih melanjutkan ke slide berikutnya menjelaskan 4 area git jika sudah lanjut ke alif
 13. Slide github setup dilanjutkan oleh Alif, jelaskan dari poin 1-2, saat di poin 3 kembali ke git untuk menjelaskan apa itu git config, ketika di poin 4 jelaskan saja tidak perlu membuat filenya (README.md dan semacamnya), poin 5 jelaskan apa itu git init (tanyakan ke pesrta apa yang harus dilakukan untuk menjadikan sebuah repo?), 
-14. lanjut ke slide berikutnya tentang command dasar, disini lgsg balik ke desktop untuk mempersiapkan contoh studi kasus dipraktekkan.
+14. lanjut ke slide berikutnya tentang **command dasar**, disini lgsg balik ke desktop untuk mempersiapkan contoh studi kasus dipraktekkan.
 15. buat sebuah folder workshop-ai, isi satu file aja index.html.
 16. git add, terus jelasin git add itu apa aja argument nya `git add <argument>.
 17. lanjut sampai commit, pas di commit pakai conventional commit, sebelum itu jelaskan dlu conventional commit, contohkan beberapa tipe `feat,fix,docs,` urutan tentang conventional commit :
     1. Apa itu Conventional Commit (singkat).
-    
 	2. Kenapa penting (manfaat untuk tim & otomatisasi).
-	    
 	3. Format dasarnya.
-	    
 	4. Jenis-jenis yang sering dipakai (**feat, fix, docs, style, refactor, test, chore**).
-	    
 	5. Contoh nyata commit.
 18. lanjut menjelaskan git log setelah melakukan commit di cek terlebih dahulu id commitnya.
 19. selanjutnya untuk git push untuk git pull itu nantinya aja detailnya di bagian kolaborasi
-20. selanjutnya, bahas slide branching bahas teori dulu,  saat ini pastikan google meet masih tersambung,
-
+20. selanjutnya, bahas slide **branching** bahas teori dulu,  saat ini pastikan google meet masih tersambung, teus bahas urutan :
+    - Jelaskan dulu apa itu branching, 
+    - Contoh penggunaan
+    - Tunjukan slide visual akarnya
+    - Praktekkan dengan menggunakan `git branch` untuk melihat branch apa saja yang tersedia di lokal repo  (asterisk / "*"  adalah simbol dimana diberada sekarang.)
+    - setelah itu jelaskan cara membuat branch baru, dengan nama `fitur`
+    - baru jelaskan cara pindah branch menggunakan `git checkout` (cara lama) `git switch` (cara baru)
+    - terus cek kembali untuk cek branch berada dimana sekarang menggunakan `git branch`
+    - untuk praktek cepat, gunakan `fitur/nama_mereka` nama branch
+    - tambah folder baru "fitur" buat sebuah file "test.html", lakukan comman dasar (add - commit) jika ingin sampai local (karean belum sampai remote jadi tidak perlu sampai git push dulu, mungkin?)
+    - `perlu sampai remote repo atau ga bang? kaya push` (kalau sampai remote kita perlu contohin pull request biar keliatan di githubnya)
+21. selanjutnya ke slide **Remoting Repo** proses pemindahan dari lokala ke remote(hosting), isi pembahasan:
+	-  jadi pembahasan disini teori dulu : **Remote repository** adalah copyan project yang disimpan di server (misalnya GitHub/GitLab) agar bisa diakses bersama.
+	- setelah itu bahas nih, karena ini masih lokal repo, dan sebelumnya udah lakukan init kita belum tau nih mau repo apa kita push atau pindahinnya ke server.
+	- kenalkan command `git remote`, seperti cek dulu menggunakan `git remote -v` apakah ada yang terkonek antara local ke remotenya?
+	- contohkan command dasar `git remote add origin <link_repo_github>`
+		- `origin` → nama alias bawaan untuk remote (bisa diganti, tapi biasanya dipakai default).
+		- `<link_repo_github>` → URL dari repo GitHub/GitLab yang kita buat.
+	- setelah itu cek apakah reponya sudah terhubung atau belum menggunakan `git remote -v` kembali. 
+	- jika sudah terkoneksi, akhirnya kita bisa proses push ke remote dari local. 
+	- dengan command `git push -u <alias_remote> <nama_branch>`
+	- jiak berhasil, silakan cek repo nya apakah berhasil.
+	- materi selesai.
+22. Selanjutnya ke slide **Kolaborasi**, 
+  
 # NOTE ALUR : 
 - Jika ingin menambahkan materi, langsung masuk ketika hening 2-3 detik.
 - Atau ada isyarat dari temannya jika "ada tambahan kh?".

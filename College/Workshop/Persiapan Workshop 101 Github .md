@@ -93,8 +93,8 @@ https://github.com/miezlearning/workshop-github-ai/tree/master
 9. Saat menjelaskan repo keren pertama jelaskan seperti biasa, untuk yang kedua bang ahmad mention/sebut bang alif untuk menjelaskan lebih detail reponya.
 10. Setelah alif selesai menjelaskan repo, alif kembalikan lagi materinya untuk dilanjutkan oleh bang ahmad
 11. Bang ahmad, lanjut slide berikutnya, menjelaskan flow dari gambar yang ada dislide,
-12. masih melanjutkan ke slide berikutnya menjelaskan 4 area git jika sudah lanjut ke alif
-13. Slide github setup dilanjutkan oleh Alif, jelaskan dari poin 1-2, saat di poin 3 kembali ke git untuk menjelaskan apa itu git config, ketika di poin 4 jelaskan saja tidak perlu membuat filenya (README.md dan semacamnya), poin 5 jelaskan apa itu git init (tanyakan ke pesrta apa yang harus dilakukan untuk menjadikan sebuah repo?), 
+12. Slide github setup dilanjutkan oleh Alif, jelaskan dari poin 1-2, saat di poin 3 kembali ke git untuk menjelaskan apa itu git config, ketika di poin 4 jelaskan saja tidak perlu membuat filenya (README.md dan semacamnya), poin 5 jelaskan apa itu git init (tanyakan ke pesrta apa fungsi dari git init?), 
+13. masih melanjutkan ke slide berikutnya menjelaskan 4 area git 
 14. lanjut ke slide berikutnya tentang **command dasar**, disini lgsg balik ke desktop untuk mempersiapkan contoh studi kasus dipraktekkan.
 15. buat sebuah folder workshop-ai, isi satu file aja index.html.
 16. git add, terus jelasin git add itu apa aja argument nya `git add <argument>.

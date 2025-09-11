@@ -188,3 +188,30 @@ KESEPKATAN, MAU ALIF ATAU AHMAD.
 - Atau ada isyarat dari temannya jika "ada tambahan kh?".
 - Google meet bang ahmad untuk bagian kolaborasi (https://meet.google.com/vdm-ckir-psn)
 - Alif menjelaskan, bang ahmad melakukan aktivitas ( 1 ngoding 1 jelaskan )
+
+
+
+
+# ALUR MATERI VISUAL 
+- Materi 0 : Apa itu Git & Github ? > Kenapa Git > Sejarah GitHub 
+- Materi 1 : Daftar Akun -> Install git -> Buat repository -> Inisiasi local repo git 
+- Materi 2 : Cek Status > Menambahkan File ke Stage > Commit File (Opsional: Conventional Commit)  > Log Commit 
+- Materi 3 : Penggunaan Branching > Cek/Lihat Branch > Buat Branch > Pindah Branch > Modifikasi Branch (tambah/hapus/edit file).
+- Materi 4 : Lihat/Cek Remote Yang Terhubung > Integrasi/Hubungkan Local ke Remote > Push Perubahan ke Server 
+- Materi 5 : Salin Repository Utama > Clone Hasil Salin > Tambah Remote Repo Utama > Buat Branch Baru > Sinkron Perubahan Repo Utama dengan Lokal >Lakukan Perubahan & Commit > Push ke Repo Remote Clone > Buat Pull Request > Terima Pull Request & Merge.
+
+# PERTANYAAN PER MATERI 
+1. Materi 0 : 
+	- Jika Git Itu Bandara, Maka Github itu apa? 
+2. Materi 1 : 
+	- Jika status areanya Untracked apakah bisa di commit? 
+	- Setelah install git, dan membuat repo kosong di github, apa yang harus dilakukan selanjutnya? 
+3. Materi 2 : 
+	- Jika kita melakukan perubahan pada file index.html, dan style.css, lalu git menjalankan `git add index.html` dan kemudian melakukan commit, apa yang terjadi pada file `style.css` ?
+	- Apa nama status area setelah melakukan commit? 
+4. Materi 3 : 
+	- Apa yang terjadi jika kita menjalankan git push, tetapi ada perubahan baru pada github yang tidak kita miliki di local? 
+	- Bagaimana cara perubahan lokal kita, bisa muncul di repo github, perintah apa yang digunakan? 
+5. Materi 4 : 
+	- Saya punya tim, dan saya memberikan akses ke mereka, itu jenis kolaborasi apa?
+	- **Guntur** tertarik dengan sebuah project open source, di github **Bang Alip** dengan nama repository **Cheat AIS**, guntur ingin memberikan kontribusi dengan memperbaiki typo di file `README.md.` Namun tidak memiliki akses langsung untuk mengubah isi repository tersebut, apa yang harus dilakukan **Guntur**?

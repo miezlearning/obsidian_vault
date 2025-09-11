@@ -13,54 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Persyaratan Utama"
-            }
-          },
-          {
-            "id": "0ac911dad073b60b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/KKN/Folder Drive Kelompok KKN.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Folder Drive Kelompok KKN"
-            }
-          },
-          {
-            "id": "bddc7208e807950e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "College/Workshop/Persiapan Workshop 101 Github .md",
                 "mode": "source",
                 "source": false,
@@ -79,8 +31,7 @@
               "title": "Persiapan Workshop 101 Github"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             }
           },
           {
-            "id": "85a7a7f23631b520",
+            "id": "80d1518ab5dc9492",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -261,10 +212,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bddc7208e807950e",
+  "active": "4980699deb911cc4",
   "lastOpenFiles": [
-    "Misc/IDK/Rangkuman Airot Manajemen Osteoporosis.md",
+    "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
+    "College/KKN/Folder Drive Kelompok KKN.md",
     "College/Workshop/Persiapan Workshop 101 Github .md",
+    "Misc/IDK/Rangkuman Airot Manajemen Osteoporosis.md",
     "Pasted image 20250909234848.png",
     "conflict-files-obsidian-git.md",
     "Study/Garbage Collection.md",
@@ -292,10 +245,8 @@
     "College/PKL/PKL.md",
     "College/PKL/Catatan Awal.md",
     "College/Tugas Akhir/Prototype Skripsi",
-    "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "{D0C64277-5228-487E-99FC-5E43D28B6453}.png",
     "College/Capstone/Capstone.md",
-    "College/Kapita Selekta/Catatan Pertemuan 1.md",
     "College/DBS Coding Camp 2025",
     "College/Capstone",
     "Untitled",

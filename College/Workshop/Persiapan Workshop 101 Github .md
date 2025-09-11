@@ -191,7 +191,7 @@ KESEPKATAN, MAU ALIF ATAU AHMAD.
 
 
 
-
+https://github.com/miezlearning/testing-kolaborasi/pull/2
 # ALUR MATERI VISUAL 
 - Materi 0 : Apa itu Git & Github ? > Kenapa Git > Sejarah GitHub 
 - Materi 1 : Daftar Akun -> Install git -> Buat repository -> Inisiasi local repo git 
@@ -212,6 +212,16 @@ KESEPKATAN, MAU ALIF ATAU AHMAD.
 4. Materi 3 : 
 	- Apa yang terjadi jika kita menjalankan git push, tetapi ada perubahan baru pada github yang tidak kita miliki di local? 
 	- Bagaimana cara perubahan lokal kita, bisa muncul di repo github, perintah apa yang digunakan? 
+	- Jika aku push di branch sekarang, apakah di remote repository branch lainnya akan ikut?
 5. Materi 4 : 
 	- Saya punya tim, dan saya memberikan akses ke mereka, itu jenis kolaborasi apa?
 	- **Guntur** tertarik dengan sebuah project open source, di github **Bang Alip** dengan nama repository **Cheat AIS**, guntur ingin memberikan kontribusi dengan memperbaiki typo di file `README.md.` Namun tidak memiliki akses langsung untuk mengubah isi repository tersebut, apa yang harus dilakukan **Guntur**?
+
+
+
+
+# Note di PPT : 
+
+- Buat Catatan Per slide yang penting untuk memberi tahu pemateri 
+- Buat penilaian spreadsheet 
+- Selesaikan PPT

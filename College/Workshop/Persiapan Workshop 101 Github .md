@@ -116,7 +116,7 @@ https://github.com/miezlearning/workshop-github-ai/tree/master
     - terus cek kembali untuk cek branch berada dimana sekarang menggunakan `git branch`
     - untuk praktek cepat, gunakan `fitur/nama_mereka` nama branch
     - tambah folder baru "fitur" buat sebuah file "test.html", lakukan comman dasar (add - commit) jika ingin sampai local (karean belum sampai remote jadi tidak perlu sampai git push dulu, mungkin?)
-    - `perlu sampai remote repo atau ga bang? kaya push` (kalau sampai remote kita perlu contohin pull request biar keliatan di githubnya)
+    - setelah itu lakukan merge ke main branch
 21. selanjutnya ke slide **Remoting Repo** proses pemindahan dari lokala ke remote(hosting), isi pembahasan:
 	-  jadi pembahasan disini teori dulu : **Remote repository** adalah copyan project yang disimpan di server (misalnya GitHub/GitLab) agar bisa diakses bersama.
 	- setelah itu bahas nih, karena ini masih lokal repo, dan sebelumnya udah lakukan init kita belum tau nih mau repo apa kita push atau pindahinnya ke server.

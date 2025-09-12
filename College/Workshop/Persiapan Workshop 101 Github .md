@@ -219,6 +219,69 @@ https://github.com/miezlearning/testing-kolaborasi/pull/2
 
 
 
+# ALUR Praktek
+
+
+GITHUB SETUP -> REMOTING REPO
+1. Buat akun github ( kalau pada buat, kalau g ada gabung ke temannya aja)
+2. Install Git 
+3. Buat repo 
+4. git init
+5. git config akun name dan email 
+6. git status
+7. git add
+8. git status
+9. git commit -m "menambahkan file index.html"
+10. git log 
+11. git log --oneline
+12. Buat file test.html
+13. git add test.html 
+14. git commit -m "membuat file test.html"
+15. git reset --soft 123456
+16. git commit -m "membuat file test.html"
+17. git reset --mixed 123456
+18. git add test.html 
+19. git commit -m "membuat file test.html"
+20. git reset --hard 123456
+21. git branch 
+22. git branch nama_fitur
+23. git branch
+24. git switch nama_fitur
+25. edit file test.html 
+26. git add test.html 
+27. git commit -m "perubahan pada test.html"
+28. git switch main/master 
+29. git merge nama_fitur
+30. git remote -v 
+31. git remote add origin https://github.com/aristotless/workshop-ai-2025.git
+32. git push -u origin main 
+33. buat file baru test1.html 
+34. git add test1.html 
+35. git commit -m "tambah file baru"
+36. git push
+
+KOLABORASI 
+1. Fork github ini https://github.com/miezlearning/workshop-kolaborasi
+2. git clone https://github.com/aristotless/workshop-kolaborasi
+3. git remote -v 
+4. git remote add upstream https://github.com/miezlearning/workshop-kolaborasi
+5. git switch -c nama_fitur
+6. buat file nama.html
+7. git add nama.html 
+8. git commit -m "membuat file nama.html branch nama_fitur"
+9. git push origin nama_fitur
+10. ke repository https://github.com/aristotless/workshop-kolaborasi
+11. pilih branch `nama_fitur` 
+12. klik `contribute`
+13. pencet **Open Pull Request**
+14. pencet **Create Pull**
+15. ke gmeet untuk melihat pov pemilik repository
+16. ke repository https://github.com/miezlearning/workshop-kolaborasi
+17. ke pull request 
+18. pilih salah satu pull request yang masuk 
+19. acc pull request
+20. dan merge 
+21. lihat hasil di repository
 
 # Note di PPT : 
 

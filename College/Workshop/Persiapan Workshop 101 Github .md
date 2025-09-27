@@ -211,7 +211,7 @@ https://github.com/miezlearning/testing-kolaborasi/pull/2
 	- Apa nama status area setelah melakukan commit? 
 4. Materi 3 : 
 	- Apa yang terjadi jika kita menjalankan git push, tetapi ada perubahan baru pada github yang tidak kita miliki di local? 
-	- Bagaimana cara perubahan lokal kita, bisa muncul di repo github, perintah apa yang digunakan? 
+	- Bagaimana cara perubahan lokal kita, bisa muncul di repo github, perintah apa yang digunakan?  
 	- Jika aku push di branch sekarang, apakah di remote repository branch lainnya akan ikut?
 5. Materi 4 : 
 	- Saya punya tim, dan saya memberikan akses ke mereka, itu jenis kolaborasi apa?

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Workshop/Persiapan Workshop 101 Github .md",
+                "file": "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Persiapan Workshop 101 Github"
+              "title": "Persyaratan Utama"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "5ab29c5e0ea09a05",
+            "id": "f03e789727593163",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -214,9 +214,10 @@
   },
   "active": "4980699deb911cc4",
   "lastOpenFiles": [
+    "Untitled.base",
+    "College/Workshop/Persiapan Workshop 101 Github .md",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "College/KKN/Folder Drive Kelompok KKN.md",
-    "College/Workshop/Persiapan Workshop 101 Github .md",
     "Misc/IDK/Rangkuman Airot Manajemen Osteoporosis.md",
     "Pasted image 20250909234848.png",
     "conflict-files-obsidian-git.md",
@@ -246,7 +247,6 @@
     "College/PKL/Catatan Awal.md",
     "College/Tugas Akhir/Prototype Skripsi",
     "{D0C64277-5228-487E-99FC-5E43D28B6453}.png",
-    "College/Capstone/Capstone.md",
     "College/DBS Coding Camp 2025",
     "College/Capstone",
     "Untitled",
@@ -254,7 +254,6 @@
     "Pasted image 20250419042226.png",
     "Daily Life/Mechanichal Keyboard",
     "Misc/IDK",
-    "Misc/Tips And Trick",
     "Pasted image 20250215110107.png",
     "Pasted image 20250213095829.png",
     "Pasted image 20250213095818.png",

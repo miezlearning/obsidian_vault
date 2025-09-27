@@ -39,4 +39,22 @@ Pada tahap pertama, tanyakan bagaimana proses mereka melalui tugas akhir, dari a
 # Log 
 > https://aistudio.google.com/prompts/1UyfwFwMiiydwJ7fFmP6AqfsbwzQppw2o
 > https://docs.google.com/document/d/1gFpddwjt3maxgfMQdSFnOajUuvolOdne/edit?tab=t.0
-> 
+
+
+
+
+
+
+
+# Judul Skripsi 
+
+1. Analisis Sentimen Komparatif untuk Mengungkap Perbedaan Ulasan Aplikasi Pinjaman Online Legal dan Ilegal Menggunakan Metode Naïve Bayes
+2. Analisis Sentimen Komparatif pada Ulasan Aplikasi Pinjaman Online **Legal** di Google Play Store Menggunakan Metode Naïve Bayes untuk Sistem Rekomendasi
+
+
+# Judul Terdahulu 
+
+1. Implementasi Algoritma Support Vector Machine Untuk Analisa Sentimen Data Ulasan Aplikasi Pinjaman Online di Google Play Store
+https://journal.irpi.or.id/index.php/malcom/article/view/1435
+
+2. 

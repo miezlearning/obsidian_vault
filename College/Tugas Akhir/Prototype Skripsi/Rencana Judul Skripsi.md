@@ -50,6 +50,7 @@ Pada tahap pertama, tanyakan bagaimana proses mereka melalui tugas akhir, dari a
 
 1. Analisis Sentimen Komparatif untuk Mengungkap Perbedaan Ulasan Aplikasi Pinjaman Online Legal dan Ilegal Menggunakan Metode Naïve Bayes
 2. Analisis Sentimen Komparatif pada Ulasan Aplikasi Pinjaman Online **Legal** di Google Play Store Menggunakan Metode Naïve Bayes untuk Sistem Rekomendasi
+3. Rancang Bangun Sistem Pelaporan Kerusakan Jalan Berbasis Web dengan Partisipasi Masyarakat (Studi Kasus: DPUPR Kota Samarinda Bidang Jalan dan Jembatan)
 
 	
 # Judul Terdahulu 
@@ -60,4 +61,25 @@ https://journal.irpi.or.id/index.php/malcom/article/view/1435
 2. PENERAPAN ALGORITMA NAÏVE BAYES UNTUK ANALISIS SENTIMEN ULASAN PENGGUNA APLIKASI ADAKAMI DI GOOGLE PLAY STORE
 https://journal.eng.unila.ac.id/index.php/jitet/article/view/6191
 
-3. 
+
+
+# Detail Konsultasi
+
+### 1. Analisis Sentimen Komparatif untuk Mengungkap Perbedaan Ulasan Aplikasi Pinjaman Online Legal dan Ilegal Menggunakan Metode Naïve Bayes 
+
+Skripsi ini membahas tentang komparatif atau perbandingan ulasan antara aplikasi pinjol  ilegal ( tidak terdaftar ojk ) dan legal. 
+
+- Batasan Masalah : 
+- Manfaat :  
+### 2. Analisis Sentimen Komparatif pada Ulasan Aplikasi Pinjaman Online **Legal** di Google Play Store Menggunakan Metode Naïve Bayes untuk Sistem Rekomendasi
+
+Judul ini membahas tentang membantu pemilihan atau rekomendasi aplikasi pinjol legal dala membantu masyrakat memilih aplikasi pinjol yang aman dan nyaman.
+
+- Batasan Masalah : 
+- Manfaat :  
+### 3. Rancang Bangun Sistem Pelaporan Kerusakan Jalan Berbasis Web dengan Partisipasi Masyarakat (Studi Kasus: DPUPR Kota Samarinda Bidang Jalan dan Jembatan)
+
+Judul ini membahas tentang pembuatan aplikais pelaporan kerusakan jalan di kota samarinda, kerja sama dengan DPUPR Kota Samarinda, dalam inovasi pengembangan pelaporan jalan rusak.
+
+- Batasan Masalah : 
+- Manfaat :  

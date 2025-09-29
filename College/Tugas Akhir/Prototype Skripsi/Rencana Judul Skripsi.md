@@ -51,10 +51,13 @@ Pada tahap pertama, tanyakan bagaimana proses mereka melalui tugas akhir, dari a
 1. Analisis Sentimen Komparatif untuk Mengungkap Perbedaan Ulasan Aplikasi Pinjaman Online Legal dan Ilegal Menggunakan Metode Naïve Bayes
 2. Analisis Sentimen Komparatif pada Ulasan Aplikasi Pinjaman Online **Legal** di Google Play Store Menggunakan Metode Naïve Bayes untuk Sistem Rekomendasi
 
-
+	
 # Judul Terdahulu 
 
 1. Implementasi Algoritma Support Vector Machine Untuk Analisa Sentimen Data Ulasan Aplikasi Pinjaman Online di Google Play Store
 https://journal.irpi.or.id/index.php/malcom/article/view/1435
 
-2. 
+2. PENERAPAN ALGORITMA NAÏVE BAYES UNTUK ANALISIS SENTIMEN ULASAN PENGGUNA APLIKASI ADAKAMI DI GOOGLE PLAY STORE
+https://journal.eng.unila.ac.id/index.php/jitet/article/view/6191
+
+3. 

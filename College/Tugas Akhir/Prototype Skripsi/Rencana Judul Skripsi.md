@@ -69,17 +69,23 @@ https://journal.eng.unila.ac.id/index.php/jitet/article/view/6191
 
 Skripsi ini membahas tentang komparatif atau perbandingan ulasan antara aplikasi pinjol  ilegal ( tidak terdaftar ojk ) dan legal. 
 
+- Latar Belakang : 
 - Batasan Masalah : 
 - Manfaat :  
 ### 2. Analisis Sentimen Komparatif pada Ulasan Aplikasi Pinjaman Online **Legal** di Google Play Store Menggunakan Metode Naïve Bayes untuk Sistem Rekomendasi
 
 Judul ini membahas tentang membantu pemilihan atau rekomendasi aplikasi pinjol legal dala membantu masyrakat memilih aplikasi pinjol yang aman dan nyaman.
 
+
+- Latar Belakang : 
 - Batasan Masalah : 
 - Manfaat :  
 ### 3. Rancang Bangun Sistem Pelaporan Kerusakan Jalan Berbasis Web dengan Partisipasi Masyarakat (Studi Kasus: DPUPR Kota Samarinda Bidang Jalan dan Jembatan)
 
 Judul ini membahas tentang pembuatan aplikais pelaporan kerusakan jalan di kota samarinda, kerja sama dengan DPUPR Kota Samarinda, dalam inovasi pengembangan pelaporan jalan rusak.
 
+- Latar Belakang : 
 - Batasan Masalah : 
 - Manfaat :  
+
+![[{EB570D32-6630-4E52-9BAE-9073459E9E63}.png]]

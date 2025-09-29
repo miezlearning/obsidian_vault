@@ -71,7 +71,7 @@ Skripsi ini membahas tentang komparatif atau perbandingan ulasan antara aplikasi
 
 - Latar Belakang : 
 - Batasan Masalah : 
-- Manfaat :  
+- Manfaat :  Membantu OJK dan Masyarakat dalam mewaspadai dan 
 ### 2. Analisis Sentimen Komparatif pada Ulasan Aplikasi Pinjaman Online **Legal** di Google Play Store Menggunakan Metode Naïve Bayes untuk Sistem Rekomendasi
 
 Judul ini membahas tentang membantu pemilihan atau rekomendasi aplikasi pinjol legal dala membantu masyrakat memilih aplikasi pinjol yang aman dan nyaman.

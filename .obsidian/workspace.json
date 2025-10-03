@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "e73c3a0661d8af6d",
+            "id": "98dfe8178c2deee7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -214,8 +214,10 @@
   },
   "active": "4980699deb911cc4",
   "lastOpenFiles": [
-    "{EB570D32-6630-4E52-9BAE-9073459E9E63}.png",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
+    "College/PKL/Muhammad_Alif_2209106127_Laporan PKL - Copy (1).pdf",
+    "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
+    "{EB570D32-6630-4E52-9BAE-9073459E9E63}.png",
     "Untitled.base",
     "College/Workshop/Persiapan Workshop 101 Github .md",
     "College/KKN/Folder Drive Kelompok KKN.md",
@@ -224,7 +226,6 @@
     "conflict-files-obsidian-git.md",
     "Study/Garbage Collection.md",
     "College/Workshop/Workshop.md",
-    "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
     "College/Capstone/Catatan Sesi Mentoring.md",
     "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
     "College/Workshop/git remote -v- git remo.md",
@@ -243,7 +244,6 @@
     "Pasted image 20250716112928.png",
     "Misc/Tools/Tools.md",
     "Misc/Tools",
-    "College/PKL/Muhammad_Alif_2209106127_Laporan PKL - Copy (1).pdf",
     "College/PKL/PKL.md",
     "College/PKL/Catatan Awal.md",
     "College/Tugas Akhir/Prototype Skripsi",
@@ -259,7 +259,6 @@
     "Pasted image 20250213095829.png",
     "Pasted image 20250213095818.png",
     "Pasted image 20250213095804.png",
-    "Pasted image 20250213080202.png",
-    "Pasted image 20250213080147.png"
+    "Pasted image 20250213080202.png"
   ]
 }

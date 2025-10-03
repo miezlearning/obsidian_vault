@@ -118,3 +118,18 @@ Judul ini membahas tentang pembuatan aplikais pelaporan kerusakan jalan di kota 
     3. **Bagi Akademik** : Menjadi contoh implementasi sistem informasi berbasis partisipasi masyarakat dalam mendukung layanan publik.
 
 ![[{EB570D32-6630-4E52-9BAE-9073459E9E63}.png]]
+
+
+Latar Belakang terkait Jurnal(fix):
+
+Infrastruktur jalan merupakan salah satu fasilitas publik yang memiliki peranan vital dalam mendukung mobilitas masyarakat, pertumbuhan ekonomi, serta keselamatan pengguna jalan. Namun, kerusakan jalan yang tidak segera ditangani dapat menimbulkan berbagai dampak negatif, mulai dari menurunnya kenyamanan berkendara hingga meningkatkan risiko kecelakaan lalu lintas. Oleh karena itu, proses pelaporan dan penanganan kerusakan jalan perlu dilakukan secara cepat, tepat, dan terintegrasi.
+
+Upaya pengembangan sistem pelaporan kerusakan jalan berbasis web, seperti yang telah diimplementasikan oleh DPUPR Kota Samarinda melalui aplikasi Jalan Peduli, telah menjadi langkah inovatif dalam mendorong partisipasi masyarakat untuk melaporkan kerusakan jalan. Melalui sistem tersebut, masyarakat dapat menyampaikan laporan secara lebih mudah, dan pihak DPUPR dapat melakukan validasi serta tindak lanjut dengan lebih transparan. Meskipun demikian, proses identifikasi kondisi jalan dari laporan masyarakat masih memerlukan validasi manual oleh petugas, yang berpotensi memakan waktu dan menimbulkan ketidakakuratan.
+
+Untuk mendukung proses validasi laporan dan mempercepat pengambilan keputusan, diperlukan sistem berbasis kecerdasan buatan yang mampu melakukan deteksi jenis dan tingkat kerusakan jalan secara otomatis. Salah satu metode yang dapat digunakan adalah Convolutional Neural Network (CNN), yang terbukti efektif dalam pengenalan pola visual dan klasifikasi gambar. Dengan penerapan metode ini, sistem diharapkan tidak hanya menerima laporan masyarakat, tetapi juga mampu mengidentifikasi jenis kerusakan (misalnya retak, lubang, atau aus) serta menentukan tingkat kerusakan secara akurat. Hal ini akan meningkatkan efisiensi proses validasi, mempercepat tindak lanjut perbaikan, serta mendukung pengelolaan infrastruktur jalan yang lebih cerdas dan efektif.
+
+
+Singkat :
+Infrastruktur jalan berperan vital dalam mobilitas, ekonomi, dan keselamatan masyarakat. Kerusakan jalan yang tidak segera ditangani dapat menimbulkan ketidaknyamanan hingga risiko kecelakaan. Saat ini, pelaporan kerusakan jalan di Kota Samarinda melalui aplikasi **Jalan Peduli** telah mendorong partisipasi masyarakat dan meningkatkan transparansi. Namun, validasi laporan masih dilakukan secara manual sehingga memakan waktu dan berpotensi kurang akurat.
+
+Untuk itu, diperlukan sistem berbasis kecerdasan buatan yang mampu mendeteksi jenis dan tingkat kerusakan jalan secara otomatis. Metode **Convolutional Neural Network (CNN)** dapat dimanfaatkan karena efektif dalam klasifikasi gambar, sehingga sistem tidak hanya menerima laporan masyarakat tetapi juga mengidentifikasi kondisi jalan dengan lebih cepat, akurat, dan efisien.

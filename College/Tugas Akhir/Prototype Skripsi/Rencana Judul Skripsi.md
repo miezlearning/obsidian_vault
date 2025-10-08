@@ -139,3 +139,8 @@ Untuk itu, diperlukan sistem berbasis kecerdasan buatan yang mampu mendeteksi je
 21 Jurnal : 
 10/11 Buku : 
 3/4 Web : 
+
+
+
+Target 1500 Gambar
+Bagaimana jika kurang? apakah boleh menggunakan sedikit data open source untuk menutupi kekurangan.

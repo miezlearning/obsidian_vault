@@ -1,0 +1,1 @@
+![![College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/#*Table]]

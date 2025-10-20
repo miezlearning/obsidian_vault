@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
+                "file": "College/Data Mining/Data Understanding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rencana Judul Skripsi"
+              "title": "Data Understanding"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "c7a7004f9c134993",
+            "id": "235de1b718bd2345",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -212,12 +212,21 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9d404bf0ab4cf0c8",
+  "active": "4980699deb911cc4",
   "lastOpenFiles": [
+    "College/Data Mining/Data nosiy.md",
+    "College/Data Mining/Catatan Pertemuan 2.md",
+    "College/Data Mining/Catatan Pertemuan 3.md",
+    "College/Data Mining/Tugas 1 Data Mining 2209106127_Muhammad Alif.md",
+    "College/Data Mining/Jawaban Tugas 1.md",
+    "College/Data Mining/Major Tasks dalam Data Processing.md",
+    "College/Data Mining/Catatan Pertemuan 1.md",
+    "College/Data Mining/Data Understanding.md",
+    "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
+    "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL3463.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD3310.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Pengumpulan Referensi.md",
-    "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~$hammad Alif Seminar Proposal v.1.docx",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL1385.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD1267.tmp",
@@ -227,7 +236,6 @@
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal",
     "College/Tugas Akhir/Prototype Skripsi/New folder",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
-    "College/PKL/Muhammad_Alif_2209106127_Laporan PKL - Copy (1).pdf",
     "{EB570D32-6630-4E52-9BAE-9073459E9E63}.png",
     "College/Workshop/Persiapan Workshop 101 Github .md",
     "College/KKN/Folder Drive Kelompok KKN.md",
@@ -240,19 +248,11 @@
     "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
     "College/Workshop/git remote -v- git remo.md",
     "College/KKN/Persiapan Presentasi DISKOMINFO.md",
-    "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
-    "College/Data Mining/Catatan Pertemuan 1.md",
     "College/DBS Coding Camp 2025/Tugas SS6.md",
     "Misc/Tools/Nix.md",
     "Misc/Tools/Caprover.md",
     "Daily Life/Mechanichal Keyboard/Kesalahan Pemula Memilih Keyboard Mechanic.md",
-    "Daily Life/Mechanichal Keyboard/Modul Memahami Mechanical Keyboard.md",
-    "College/Capstone/Penjelasan Alur.md",
-    "College/Machine Learning/Machine Learning.md",
-    "College/Data Mining/Major Tasks dalam Data Processing.md",
     "Pasted image 20250716112928.png",
-    "Misc/Tools/Tools.md",
-    "College/PKL/PKL.md",
     "{D0C64277-5228-487E-99FC-5E43D28B6453}.png",
     "Untitled.canvas",
     "Pasted image 20250419042226.png",

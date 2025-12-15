@@ -159,3 +159,10 @@ Udah ngerti kan? Sekarang kalau ada yang nanya, tinggal jelasin pakai analogi in
 
 
 Apa itu ground turth : 
+
+
+
+
+_Flatten layer_ berfungsi untuk mengubah representasi multi-dimensi dari _feature maps_ menjadi vector satu dimensi. Layer ini diperlukan sebagai penghubung antara _convolutional layers_ yang menghasilkan output tiga dimensi (lebar × tinggi × channel) dan _fully connected layers_ yang memerlukan input satu dimensi.
+
+Jika input memiliki dimensi h×w×dh×w×d (height × width × depth/channels), maka output flatten adalah vector dengan dimensi h×w×dh×w×d elemen. Proses _flattening_ tidak mengubah atau menghilangkan informasi dalam data, tetapi hanya merestrukturisasi format representasi.

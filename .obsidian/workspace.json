@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/Catatan Kelas Pertemuan 1.md",
+                "file": "Daily Life/Fragrance Things/Resting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Catatan Kelas Pertemuan 1"
+              "title": "Resting"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "235de1b718bd2345",
+            "id": "e154afcc7acd133e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -212,8 +212,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9d404bf0ab4cf0c8",
+  "active": "4980699deb911cc4",
   "lastOpenFiles": [
+    "Daily Life/Fragrance Things/Resting.md",
+    "Daily Life/Fragrance Things/Fragrance Things.md",
+    "College/Machine Learning/Catatan Kelas Pertemuan 1.md",
+    "Daily Life/Fragrance Things",
+    "Daily Life/Untitled.md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL2173.tmp",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD1809.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL3859.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD3468.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Muhammad Alif Seminar Proposal v.1.pdf",
@@ -222,14 +229,11 @@
     "College/Machine Learning/Apa itu Machine Learning.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL2022.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD1772.tmp",
-    "College/Machine Learning/Catatan Kelas Pertemuan 1.md",
     "College/Machine Learning/Catatan Pertemuan 3.md",
     "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
     "College/KKN/Persiapan Presentasi DISKOMINFO.md",
     "College/Data Mining/Major Tasks dalam Data Processing.md",
     "College/Data Mining/Data Understanding.md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL1784.tmp",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD1647.tmp",
     "College/Data Mining/Data nosiy.md",
     "College/Data Mining/Catatan Pertemuan 2.md",
     "College/Data Mining/Catatan Pertemuan 3.md",
@@ -238,8 +242,6 @@
     "College/Data Mining/Catatan Pertemuan 1.md",
     "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
     "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL3463.tmp",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD3310.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Pengumpulan Referensi.md",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "{EB570D32-6630-4E52-9BAE-9073459E9E63}.png",
@@ -250,8 +252,6 @@
     "conflict-files-obsidian-git.md",
     "Study/Garbage Collection.md",
     "College/Workshop/Workshop.md",
-    "College/Capstone/Catatan Sesi Mentoring.md",
-    "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
     "Pasted image 20250716112928.png",
     "{D0C64277-5228-487E-99FC-5E43D28B6453}.png",
     "Untitled.canvas",

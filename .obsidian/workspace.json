@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Resting"
             }
+          },
+          {
+            "id": "1c5410507e90c1f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Tugas Akhir/Prototype Skripsi/Tahapan Penelitian ( Bab 3 ).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tahapan Penelitian ( Bab 3 )"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             }
           },
           {
-            "id": "e154afcc7acd133e",
+            "id": "afcf860bc3c1839d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -212,8 +237,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4980699deb911cc4",
+  "active": "1c5410507e90c1f3",
   "lastOpenFiles": [
+    "College/Tugas Akhir/Prototype Skripsi/Tahapan Penelitian ( Bab 3 ).md",
+    "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
+    "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
+    "Untitled 1.base",
     "Daily Life/Fragrance Things/Resting.md",
     "Daily Life/Fragrance Things/Fragrance Things.md",
     "College/Machine Learning/Catatan Kelas Pertemuan 1.md",
@@ -228,7 +257,6 @@
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/mso32D4.tmp",
     "College/Machine Learning/Apa itu Machine Learning.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL2022.tmp",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD1772.tmp",
     "College/Machine Learning/Catatan Pertemuan 3.md",
     "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
     "College/KKN/Persiapan Presentasi DISKOMINFO.md",
@@ -241,7 +269,6 @@
     "College/Data Mining/Jawaban Tugas 1.md",
     "College/Data Mining/Catatan Pertemuan 1.md",
     "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
-    "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Pengumpulan Referensi.md",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "{EB570D32-6630-4E52-9BAE-9073459E9E63}.png",
@@ -250,8 +277,6 @@
     "Misc/IDK/Rangkuman Airot Manajemen Osteoporosis.md",
     "Pasted image 20250909234848.png",
     "conflict-files-obsidian-git.md",
-    "Study/Garbage Collection.md",
-    "College/Workshop/Workshop.md",
     "Pasted image 20250716112928.png",
     "{D0C64277-5228-487E-99FC-5E43D28B6453}.png",
     "Untitled.canvas",

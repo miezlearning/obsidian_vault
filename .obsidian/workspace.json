@@ -59,12 +59,24 @@
             "id": "545c4e6ff9976305",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Bahan Konsultasi 2 .md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "Bahan Konsultasi 2"
             }
           }
         ],
@@ -251,6 +263,7 @@
   },
   "active": "545c4e6ff9976305",
   "lastOpenFiles": [
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~$TET.docx",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Bahan Konsultasi 2 .md",
     "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
     "Daily Life/Artikel Singkat/Tentang Keberangkatan Jamaah  (Darkside).md",
@@ -286,7 +299,6 @@
     "College/Data Mining/Catatan Pertemuan 1.md",
     "College/Data Mining/Cara Mengatasi Data Outlier Ekstrem.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Pengumpulan Referensi.md",
-    "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "{EB570D32-6630-4E52-9BAE-9073459E9E63}.png",
     "Pasted image 20250909234848.png",
     "Pasted image 20250716112928.png",

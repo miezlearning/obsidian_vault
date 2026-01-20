@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "Bahan Konsultasi 2"
             }
+          },
+          {
+            "id": "545c4e6ff9976305",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             }
           },
           {
-            "id": "5010b0ef9f8c2d54",
+            "id": "04feb014d2c8c325",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -237,7 +249,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1c5410507e90c1f3",
+  "active": "545c4e6ff9976305",
   "lastOpenFiles": [
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Bahan Konsultasi 2 .md",
     "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",

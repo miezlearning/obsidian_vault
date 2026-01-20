@@ -55,19 +55,15 @@ Dihapus saja
 
 "Ambil abstrak saja di bagian penelitian terkait "
 
-
 2.2.1 kasi lurus ke kiri 
 
 Processing & Augmentasi masuknya di perancangan data
-
 
 Dataset yg dihasilkan pada pengumpulan data 
 
 Testing Data langsung masu ke evaluasi
 
 Data testing lgsg masuk ke 
-
-
 
 Konfigurasi model masuknya di pelatihan model 
 

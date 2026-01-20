@@ -20,8 +20,60 @@ Kamu tinggal jelasin:
     
 - CNN + VGG19 bisa mengotomatisasi validasi foto
     
-- Kamu pakai **dataset lokal Samarinda** → relevan & unik
+- Kamu pakai **dataset lokal Samarinda** → relevan & unik ( yang akan dibahas pada bab 3 di pengumpulan data )
     
+
+"Di berbagai wilayah, termasuk Kota Samarinda, masalah kerusakan jalan tetap menjadi perhatian serius. Faktor-faktor seperti beban kendaraan yang berlebihan, kondisi cuaca ekstrem, dan pemeliharaan yang tidak teratur sering mempercepat kerusakan (Kerusakan Jalan Di Samarinda Masalah Sistemik, Akademisi Ungkap Masalah Keterbatasan Anggaran, n.d.). Bentuk kerusakan yang umum meliputi retakan pada permukaan jalan, lubang jalan, dan permukaan jalan yang tidak rata. Jika kerusakan ini tidak ditangani segera, kualitas jalan akan terus menurun dan biaya perbaikan di masa depan akan lebih tinggi (Kurniawan et al., 2025)."
+
+Langsung to the point ke
+
+"Hingga saat ini, proses pelaporan kerusakan jalan oleh masyarakat umumnya dilakukan secara manual melalui formulir online seperti Google Forms. Meskipun praktis, metode ini memiliki beberapa keterbatasan, termasuk ketidakhadiran sistem validasi otomatis untuk foto yang dikirimkan,"
+
+disampaikan lebih online 
+
+
+Teknolog Artifical Intellegince
+
+
+Gunakan kata citra perbanya k
+
+
+"Gunakan data yang membuat...."
+
+Kata manual tidak perlu di tonjolkan 
+
+"Tidak perlu kata mengimplementasikan" jika sudah merancang 
+
+
+
+"Dengan demikian, penelitian ini tidak hanya menjadi solusi teknis, tetapi juga acuan untuk pengembangan kota cerdas (smart city) yang lebih responsif dan berbasis data." Tidak perlu ini yang to the point aja tidak perlu berbunga bunga kalimatnya 
+
+
+"ang dapat menjadi referensi bagi 6 pengembangan Smart City di Indonesia, serta memberikan solusi validasi otomatis untuk mengatasi bottleneck pada pelaporan manual di DPUPR."
+
+Dihapus saja 
+
+"Ambil abstrak saja di bagian penelitian terkait "
+
+
+2.2.1 kasi lurus ke kiri 
+
+Processing & Augmentasi masuknya di perancangan data
+
+
+Dataset yg dihasilkan pada pengumpulan data 
+
+Testing Data langsung masu ke evaluasi
+
+Data testing lgsg masuk ke 
+
+
+
+Konfigurasi model masuknya di pelatihan model 
+
+Tabel 3. 6 Jadwal Penelitian , mulai dari januari
+
+keseluruhan ditunjukkan pada Gambar 3.3
 
 Ini bagian pertama yang harus kamu bahas karena _dasar dari semuanya_.
 
@@ -39,6 +91,13 @@ Minta Bu Prof cek apakah rumusan & tujuan kamu sudah:
     
 
 Ini penting karena mereka biasanya _ngecek apakah penelitianmu bisa selesai tepat waktu_.
+
+
+Lebih ringkas, to the point bahasanya
+bukan citranya tapi isinya.
+jangan kata "hanya"  
+no 3 dijawab dengan no 1  ( tidak perlu )
+
 
 ---
 

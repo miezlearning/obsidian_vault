@@ -83,12 +83,24 @@
             "id": "65010c1d9d190928",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Bahan Konsultasi 2 .md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "Bahan Konsultasi 2"
             }
           }
         ],
@@ -146,7 +158,7 @@
             }
           },
           {
-            "id": "1d657262f92ef74e",
+            "id": "5823566b5dc73fb9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -160,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.5
   },
   "right": {
     "id": "925b19014058660d",
@@ -275,6 +287,7 @@
   },
   "active": "65010c1d9d190928",
   "lastOpenFiles": [
+    "College/Machine Learning/Ground Truth.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~$TET.docx",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Bahan Konsultasi 2 .md",
     "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
@@ -296,7 +309,6 @@
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD3468.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Muhammad Alif Seminar Proposal v.1.pdf",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/mso3A48.tmp",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/mso32D4.tmp",
     "College/Machine Learning/Apa itu Machine Learning.md",
     "College/Machine Learning/Catatan Pertemuan 3.md",
     "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",

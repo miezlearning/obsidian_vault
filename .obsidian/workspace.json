@@ -78,9 +78,21 @@
               "icon": "lucide-file",
               "title": "Bahan Konsultasi 2"
             }
+          },
+          {
+            "id": "65010c1d9d190928",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             }
           },
           {
-            "id": "f9307c70681d9fa1",
+            "id": "1d657262f92ef74e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -261,7 +273,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "545c4e6ff9976305",
+  "active": "65010c1d9d190928",
   "lastOpenFiles": [
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~$TET.docx",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Bahan Konsultasi 2 .md",

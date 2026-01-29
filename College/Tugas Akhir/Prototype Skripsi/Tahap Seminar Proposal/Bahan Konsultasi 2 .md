@@ -42,7 +42,7 @@ Gunakan kata citra perbanya k
 
 Kata manual tidak perlu di tonjolkan 
 
-"Tidak perlu kata mengimplementasikan" jika sudah merancang 
+	"Tidak perlu kata mengimplementasikan" jika sudah merancang 
 
 
 

@@ -32,7 +32,7 @@ Langsung to the point ke
 disampaikan lebih online 
 
 
-Teknolog Artifical Intellegince
+Teknolog Artifical Intellegincex
 
 
 Gunakan kata citra perbanya k

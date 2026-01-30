@@ -79,7 +79,9 @@ Ini bagian pertama yang harus kamu bahas karena _dasar dari semuanya_.
 - Tidak menonjolkan kata "manual"   
 - Perbaikan BAB 1.  
 - Perbaikan Penulisan Indentasi berhubungan dengan numbering, dan sub-bab lainnya
-
+- Kata klasifikasi tidka perlu langsung
+- jajar genjang untuk output
+- Metrik evaluasi tidak masuk dalam tabel 3.5
 
 - Kalimat jangan terlalu berbunga-bunga   
 - Perbaikan flowchart pengumpulan data ( menambahkan akhir sebagai dataset )  

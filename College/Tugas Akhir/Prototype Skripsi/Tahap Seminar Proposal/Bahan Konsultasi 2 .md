@@ -73,6 +73,21 @@ keseluruhan ditunjukkan pada Gambar 3.3
 
 Ini bagian pertama yang harus kamu bahas karena _dasar dari semuanya_.
 
+- Kalimat jangan terlalu berbunga-bunga   
+- Perbaikan flowchart pengumpulan data ( menambahkan akhir sebagai dataset )  
+- Perbaikan flowchart perancangan proses ( memisahkan alur setelah pembagian dataset )  
+- Tidak menonjolkan kata "manual"   
+- Perbaikan BAB 1.  
+- Perbaikan Penulisan Indentasi berhubungan dengan numbering, dan sub-bab lainnya
+
+
+- Kalimat jangan terlalu berbunga-bunga   
+- Perbaikan flowchart pengumpulan data ( menambahkan akhir sebagai dataset )  
+- Perbaikan flowchart perancangan proses ( memisahkan alur setelah pembagian dataset )  
+- Tidak menonjolkan kata "manual"   
+- Perbaikan BAB 1.  
+- Perbaikan Penulisan Indentasi berhubungan dengan numbering, dan sub-bab lainnya
+
 ---
 
 ### ✅ **2. Rumusan Masalah & Tujuan**

@@ -9,7 +9,7 @@ Pembahasan pada Perancangan Proses/Algoritma:
     “Validation dipakai _selama training_ buat memantau performa. Kalau train naik tapi val turun → indikasi overfitting, jadi saya pakai sebagai acuan early stopping/penyetelan parameter.”
     
 - **Training Data → Augmentasi**  
-    “Augmentasi hanya di training supaya model tidak ‘hafal’ data—tujuannya supaya robust di variasi cahaya/sudut.”
+    “Augmentasi ( teknik memodifikasi gambar supaya dataset jadi lebih bervariasi.)  hanya di training supaya model tidak ‘hafal’ data (overfitting) tujuannya supaya robust di variasi cahaya/sudut (Model tetap akurat walaupun kondisi berubah.).”
     
 - **Model CNN VGG19 + Transfer Learning → Pelatihan Model**  
     “Saya pakai transfer learning karena dataset lokal terbatas; backbone VGG19 menangkap fitur tekstur/pola kerusakan, lalu layer akhir saya sesuaikan untuk output 9 kelas.”

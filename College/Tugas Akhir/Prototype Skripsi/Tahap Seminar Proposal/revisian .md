@@ -9,5 +9,32 @@
 9. Pengumpulan Data Bab 3, hapus pada poin no 4 karean tidak perlukan sesuaikan dengan flowchart.
 10. Flowchart Gambar 3.3 lebih jelas lagi bagaimana bentuk flowchartnya, terutama di output ( gunakan jajar genjang )
 11. Paragraf 5 di latar belakang  jelaskan apa itu jalan peduli 
-12. Tujuan penelitian itu jadikan paragraf bukan poin.
-13. 
+12. Tujuan penelitian itu jadikan paragraf bukan poin
+13. Foto jalan rusak sebutkan citra yang diambil dan berapa per kelas.
+
+
+
+# Priority 
+
+Penentuan prioritas pengerjaan revisi : 
+
+## Low 🟢
+
+- Poin 13
+- Poin 6
+- Poin 5
+- poin 9
+# Moderate 🟠
+
+- poin 3
+- poin 4
+- poin 7
+- poin 8
+
+# High 🔴
+- poin 11
+- poin 1
+- poin 2
+- poin 12
+- poin 10
+

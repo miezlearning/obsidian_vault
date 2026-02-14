@@ -38,3 +38,7 @@ Penentuan prioritas pengerjaan revisi :
 - poin 12
 - poin 10
 
+## Kebutuhan data:
+
+- Spesifikasi teknis atau kebutuhan lainnya untuk integrasi dengan sistem website kami.
+- Jenis data yang diperlukan untuk analisis kerusakan jalan (misalnya, lokasi, foto, deskripsi).

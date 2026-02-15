@@ -16,6 +16,10 @@
 # Priority Area
 
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/#*Table1]]
+# Checklist Area
+
+![![College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/#*Table2]]
+
 ## Kebutuhan data:
 
 - Spesifikasi teknis atau kebutuhan lainnya untuk integrasi dengan sistem website kami.

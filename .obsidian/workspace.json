@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
+                "file": "College/Machine Learning/Ground Truth.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Revisian Seminar Proposal"
+              "title": "Ground Truth"
             }
           }
         ],
@@ -309,8 +309,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "16f77caab9f647d4",
+  "active": "48b1574e9f9fd562",
   "lastOpenFiles": [
+    "College/Machine Learning/Apa itu Machine Learning.md",
+    "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Persiapan Presentasi.md",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
@@ -336,9 +338,7 @@
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD3468.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Muhammad Alif Seminar Proposal v.1.pdf",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/mso3A48.tmp",
-    "College/Machine Learning/Apa itu Machine Learning.md",
     "College/Machine Learning/Catatan Pertemuan 3.md",
-    "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
     "College/KKN/Persiapan Presentasi DISKOMINFO.md",
     "College/Data Mining/Major Tasks dalam Data Processing.md",
     "College/Data Mining/Data Understanding.md",

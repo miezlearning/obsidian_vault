@@ -12,9 +12,7 @@
 12. Tujuan penelitian itu jadikan paragraf bukan poin
 13. Foto jalan rusak sebutkan citra yang diambil dan berapa per kelas. 
 
-
 ---
-
 # Priority Area
 
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/#*Table1]]

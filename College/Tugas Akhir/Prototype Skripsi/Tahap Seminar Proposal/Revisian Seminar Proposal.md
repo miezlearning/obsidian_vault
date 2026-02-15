@@ -18,20 +18,6 @@
 # Priority Area
 
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/#*Table1]]
-# Moderate 🟠
-
-- poin 3
-- poin 4
-- poin 7
-- poin 8
-
-# High 🔴
-- poin 11
-- poin 1
-- poin 2
-- poin 12
-- poin 10
-
 ## Kebutuhan data:
 
 - Spesifikasi teknis atau kebutuhan lainnya untuk integrasi dengan sistem website kami.

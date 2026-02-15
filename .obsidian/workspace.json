@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/revisian .md",
+                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "revisian"
+              "title": "Revisian Seminar Proposal"
             }
           }
         ],
@@ -182,7 +182,7 @@
             }
           },
           {
-            "id": "71922acd6676f1ff",
+            "id": "fb97c14ec5e48c92",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -311,8 +311,8 @@
   },
   "active": "48b1574e9f9fd562",
   "lastOpenFiles": [
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Persiapan Presentasi.md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/revisian .md",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Bahan Konsultasi 2 .md",
     "College/Machine Learning/Ground Truth.md",

@@ -126,6 +126,18 @@
               "icon": "lucide-file",
               "title": "Revisian Seminar Proposal"
             }
+          },
+          {
+            "id": "b8666f492650f393",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
         "currentTab": 4
@@ -182,7 +194,7 @@
             }
           },
           {
-            "id": "e2d81a07dc5cd88e",
+            "id": "f029e5481a83de3c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -309,7 +321,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "04552c9f5d121dcf",
+  "active": "48b1574e9f9fd562",
   "lastOpenFiles": [
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Untitled.md",

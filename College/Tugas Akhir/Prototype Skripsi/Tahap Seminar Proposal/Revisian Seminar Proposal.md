@@ -24,3 +24,5 @@
 
 - Spesifikasi teknis atau kebutuhan lainnya untuk integrasi dengan sistem website kami.
 - Jenis data yang diperlukan untuk analisis kerusakan jalan (misalnya, lokasi, foto, deskripsi).
+
+# Lanj

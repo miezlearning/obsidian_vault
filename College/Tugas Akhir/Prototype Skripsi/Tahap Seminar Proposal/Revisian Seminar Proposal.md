@@ -11,6 +11,7 @@
 11. Paragraf 5 di latar belakang  jelaskan apa itu jalan peduli 
 12. Tujuan penelitian itu jadikan paragraf bukan poin
 13. Foto jalan rusak sebutkan citra yang diambil dan berapa per kelas. 
+14. Bangun Model Klasifikasi Jalan
 
 ---
 # Priority Area

@@ -128,6 +128,18 @@
             }
           },
           {
+            "id": "5a6b8a906184cef9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "b8666f492650f393",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             }
           },
           {
-            "id": "f029e5481a83de3c",
+            "id": "2295b6154e5250bb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -321,7 +333,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "48b1574e9f9fd562",
+  "active": "59ce540af6b993fe",
   "lastOpenFiles": [
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Untitled.md",

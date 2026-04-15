@@ -8,102 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4980699deb911cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Life/Fragrance Things/Resting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Resting"
-            }
-          },
-          {
-            "id": "1c5410507e90c1f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Bahan Konsultasi 2 .md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bahan Konsultasi 2"
-            }
-          },
-          {
-            "id": "545c4e6ff9976305",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Bahan Konsultasi 2 .md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bahan Konsultasi 2"
-            }
-          },
-          {
-            "id": "65010c1d9d190928",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Persiapan Presentasi.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Persiapan Presentasi"
-            }
-          },
-          {
             "id": "48b1574e9f9fd562",
             "type": "leaf",
             "state": {
@@ -163,8 +67,7 @@
               "title": "Release Notes 1.12.4"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -345,17 +248,18 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7ba15bb80e3e2484",
+  "active": "48b1574e9f9fd562",
   "lastOpenFiles": [
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahapan Penelitian ( Bab 3 ).md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Persiapan Presentasi.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Bahan Konsultasi 2 .md",
+    "Daily Life/Fragrance Things/Resting.md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahapan Penelitian ( Bab 3 ).md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/~$hammad Alif Seminar Hasilv.1.docx",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Untitled.md",
     "College/Machine Learning/Ground Truth.md",
     "College/Machine Learning/Apa itu Machine Learning.md",
     "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Persiapan Presentasi.md",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~$TET.docx",
     "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
@@ -366,7 +270,6 @@
     "Daily Life/Fragrance Things/Fragrance Things.md",
     "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
     "Untitled 1.base",
-    "Daily Life/Fragrance Things/Resting.md",
     "College/Machine Learning/Catatan Kelas Pertemuan 1.md",
     "Daily Life/Fragrance Things",
     "Daily Life/Untitled.md",

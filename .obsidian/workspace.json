@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
+                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan KOnsultasi Prof.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Revisian Seminar Proposal"
+              "title": "Persiapan KOnsultasi Prof"
             }
           },
           {
@@ -121,7 +121,7 @@
             }
           },
           {
-            "id": "56d9d94cadfd37ac",
+            "id": "61c995374409a35b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -248,8 +248,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "de2ed3793b2ea6a6",
+  "active": "48b1574e9f9fd562",
   "lastOpenFiles": [
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Untitled 1.md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan KOnsultasi Prof.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Persiapan Presentasi.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Bahan Konsultasi 2 .md",
@@ -284,7 +286,6 @@
     "College/Data Mining/Data Understanding.md",
     "College/Data Mining/Data nosiy.md",
     "College/Data Mining/Catatan Pertemuan 2.md",
-    "College/Data Mining/Catatan Pertemuan 3.md",
     "{EB570D32-6630-4E52-9BAE-9073459E9E63}.png",
     "Pasted image 20250909234848.png",
     "Pasted image 20250716112928.png",

@@ -61,6 +61,8 @@ Ini yang bisa kamu sampaikan secara runtut:
 
 > _"Yang ingin saya tanyakan, untuk draft Bab 4 ini, apakah ada yang kurang dari sisi dokumentasi atau hasil analisis yang perlu saya tambahkan sebelum seminar hasil?"_
 
+"Pada saat sempro, konfigurasi yang dicantumkan merupakan rancangan awal berdasarkan studi literatur. Setelah implementasi dan eksperimen, ditemukan bahwa model mengalami overfitting pada fase feature extraction, sehingga ditambahkan L2 regularization untuk menekan hal tersebut. Untuk fine-tuning, dipilih membuka hanya block5_conv4 karena membuka seluruh Block 5 menyebabkan performa justru menurun akibat perubahan bobot yang terlalu drastis pada data yang terbatas. Penambahan ini merupakan bagian dari proses iterasi eksperimental yang wajar dalam penelitian deep learning."
+
 ---
 
 ## ⚠️ Catatan Penting Sebelum Konsultasi

@@ -6,11 +6,11 @@ Sudah aku baca kedua dokumen. Ini analisis lengkap dan panduan konsultasinya:
 
 Setelah membandingkan keduanya, ini yang berbeda:Muhammad-Alif-Seminar-Proposal-v.2.pdf+1
 
-|Aspek|Proposal (lama)|Draft Skripsi (baru)|
-|---|---|---|
-|Teknik augmentasi|Hanya rotasi & flip|Rotasi, flip, brightness, kontras, noise|
-|Jenis augmentasi|Online (via ImageDataGenerator saja)|**Offline** (augmentasi terpisah sebelum training)|
-|Penyebutan fine-tuning di Bab 3|Ada di teori saja|Sudah ada di perancangan proses|
+| Aspek                           | Proposal (lama)                      | Draft Skripsi (baru)                               |
+| ------------------------------- | ------------------------------------ | -------------------------------------------------- |
+| Teknik augmentasi               | Hanya rotasi & flip                  | Rotasi, flip, brightness, kontras, noise           |
+| Jenis augmentasi                | Online (via ImageDataGenerator saja) | **Offline** (augmentasi terpisah sebelum training) |
+| Penyebutan fine-tuning di Bab 3 | Ada di teori saja                    | Sudah ada di perancangan proses                    |
 
 Yang paling signifikan: di proposal kamu **tidak menyebut augmentasi offline** sama sekali, sedangkan di implementasi aktualmu (notebook ADADA) kamu melakukan augmentasi offline secara terpisah sebelum pelatihan. Ini perlu dijelaskan ke dosen karena merupakan **penyesuaian metodologi** yang kamu lakukan selama penelitian berlangsung.
 

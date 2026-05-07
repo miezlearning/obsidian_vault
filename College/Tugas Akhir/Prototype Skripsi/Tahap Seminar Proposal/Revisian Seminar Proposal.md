@@ -1,7 +1,6 @@
 1. Jelaskan lebih lanjut mengenai kata "manual" pada latar belakang  ( Seperti manual yang dimaksud apa saja inputnya, apakah pelapor tau apa jenis tingkat dan jenisnya )
 2. Pembahasan Dasar seperti CNN itu diawal, baru bahas lebih lanjutnya yang berhubungan dengan penjelasan dasar awal.
 3. Kondisi Linkungan pada halaman 2, paragraf 5 di latar belakang, jelaskan foto tentnag apa jadi tidak hanya membahas kata "kondisi lingkungan"
-
 4. Perbaiki penulisan nama peneliti hanya nama belakang saja ( pastikan semua )
 5. Jangan terlalu singkat mengambil citasi, jika ambil full maka ambil full jadi tidak perlu di ringkas lagi.
 6. Rumusan Masalah, Citra apa yang di lakukan, daerah yang jelas  seperti kota samarinda.

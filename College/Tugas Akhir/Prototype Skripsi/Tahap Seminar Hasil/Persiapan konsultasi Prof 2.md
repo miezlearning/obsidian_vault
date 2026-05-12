@@ -25,3 +25,9 @@ Terakhir, model dievaluasi menggunakan **Testing Data** yang sama sekali belum p
 Pertanyaan "akurasi cukup?" [[[Cara Jawab Akurasi Cukup]].
 
 pertanyaan "kenapa hanya membuka 1 blok yaitu blok 5"  [[[Cara Jawab Block 5 VGG]].
+
+Tujuan fine tuning pada penelitian ini untuk mengerucutkan atau memfokuskan model dalam mengenali kelas yang saya teliti atau lebih spesifik.
+
+>Pada tabel summary tersebut, trainable parameter masih sebesar 396.297, yang berasal dari layer classifier tambahan. Artinya, berdasarkan summary itu, VGG19 masih dalam kondisi frozen sepenuhnya. Jika block5 benar-benar dibuka, jumlah trainable parameter akan bertambah karena parameter convolution pada block5 ikut dilatih. Jadi, tabel tersebut kemungkinan merepresentasikan tahap feature extraction, bukan tahap fine-tuning block5.
+
+Penjelasan tentang blok atau fine tuning 

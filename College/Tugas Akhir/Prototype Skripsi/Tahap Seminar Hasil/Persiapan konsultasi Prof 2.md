@@ -32,4 +32,4 @@ Tujuan fine tuning pada penelitian ini untuk mengerucutkan atau memfokuskan mode
 
 Penjelasan tentang blok atau fine tuning [[[Penjelasan VGG19 dan setiap Bloknya]].
 
-Jelaskan lagi tentang apa saja yang sudah dibahas pada bab 4, scroll pelan untuk ibunya lihat lihat 
+Jelaskan lagi tentang apa saja yang sudah dibahas pada bab 4, scroll pelan untuk ibunya lihat lihat (jangan lupa di zoom wordnya)

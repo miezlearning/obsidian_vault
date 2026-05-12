@@ -30,4 +30,6 @@ Tujuan fine tuning pada penelitian ini untuk mengerucutkan atau memfokuskan mode
 
 >Pada tabel summary tersebut, trainable parameter masih sebesar 396.297, yang berasal dari layer classifier tambahan. Artinya, berdasarkan summary itu, VGG19 masih dalam kondisi frozen sepenuhnya. Jika block5 benar-benar dibuka, jumlah trainable parameter akan bertambah karena parameter convolution pada block5 ikut dilatih. Jadi, tabel tersebut kemungkinan merepresentasikan tahap feature extraction, bukan tahap fine-tuning block5.
 
-Penjelasan tentang blok atau fine tuning [[[Penjelasan VGG19 dan setiap Bloknya]]]
+Penjelasan tentang blok atau fine tuning [[[Penjelasan VGG19 dan setiap Bloknya]].
+
+Jelaskan lagi tentang apa saja yang sudah dibahas pada bab 4, scroll pelan untuk ibunya lihat lihat 

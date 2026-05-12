@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Life/Mechanichal Keyboard/Wishlist keyboard.md",
+                "file": "Study/Struktur Latar Belakang .md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wishlist keyboard"
+              "title": "Struktur Latar Belakang"
             }
           },
           {
@@ -53,18 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Revisian Seminar Proposal"
-            }
-          },
-          {
-            "id": "b8666f492650f393",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
             }
           }
         ]
@@ -121,7 +109,7 @@
             }
           },
           {
-            "id": "6f90a82fa7210e9f",
+            "id": "4184dffca191c760",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -250,6 +238,10 @@
   },
   "active": "9d404bf0ab4cf0c8",
   "lastOpenFiles": [
+    "Study/Untitled.md",
+    "Study/Struktur Latar Belakang .md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Untitled 2.md",
     "Daily Life/Mechanichal Keyboard/Wishlist keyboard.md",
     "Daily Life/Mechanichal Keyboard/Mechanichal Keyboard.md",
     "Daily Life/Mechanichal Keyboard/Kesalahan Pemula Memilih Keyboard Mechanic.md",
@@ -276,16 +268,12 @@
     "Daily Life/Artikel Singkat/Artikel Singkat.md",
     "Daily Life/Artikel Singkat",
     "Daily Life/Fragrance Things/Fragrance Things.md",
-    "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
     "Untitled 1.base",
-    "College/Machine Learning/Catatan Kelas Pertemuan 1.md",
     "Daily Life/Fragrance Things",
-    "Daily Life/Untitled.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL2173.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD1809.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL3859.tmp",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD3468.tmp",
-    "College/Machine Learning/Catatan Pertemuan 3.md",
     "{EB570D32-6630-4E52-9BAE-9073459E9E63}.png",
     "Pasted image 20250909234848.png",
     "Pasted image 20250716112928.png",

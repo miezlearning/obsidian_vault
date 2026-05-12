@@ -1,1 +1,3 @@
-Jadi, pembahasan yang perlu dibahas pertama dulu alurnya bahas tentang bab 1 dulu apa saja yang sudah direvisi apakah sudah jelas latar belakagnya dan sudah menggunakan latar belakang jenis "[[Study/Struktur Latar Belakang .md|deduktif]]"
+Jadi, pembahasan yang perlu dibahas pertama dulu alurnya bahas tentang bab 1 dulu apa saja yang sudah direvisi apakah sudah jelas latar belakagnya dan sudah menggunakan latar belakang jenis "[[Study/Struktur Latar Belakang .md|deduktif]]" , 
+
+Daftar Revisi [[Revisian Seminar Proposal]]sw

@@ -32,55 +32,17 @@
             }
           },
           {
-            "id": "48b1574e9f9fd562",
+            "id": "9ffdda5dc5ce7098",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Cara Jawab Akurasi Cukup.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cara Jawab Akurasi Cukup"
+              "title": "New tab"
             }
           },
           {
-            "id": "19216499e5669217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Persiapan konsultasi Prof 2"
-            }
-          },
-          {
-            "id": "18a4a785bf632004",
+            "id": "fb24d361af388aa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -285,20 +247,21 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "18a4a785bf632004",
+  "active": "fb24d361af388aa1",
   "lastOpenFiles": [
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
+    "[Cara Jawab Akurasi Cukup.md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Untitled 2.md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Cara Jawab Akurasi Cukup.md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Cara Jawab Block 5 VGG.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan KOnsultasi Prof.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Catatan Revisi Konsul 2.md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
     "Study/Penjelasan VGG19 dan setiap Bloknya.md",
     "Study/Untitled 1.md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Untitled 2.md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Cara Jawab Block 5 VGG.md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Cara Jawab Akurasi Cukup.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Persiapan Presentasi.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/~$hammad Alif Seminar Hasilv.1.docx",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Untitled.md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
     "Study/Struktur Latar Belakang .md",
     "Study/Untitled.md",
     "Daily Life/Mechanichal Keyboard/Wishlist keyboard.md",
@@ -315,7 +278,6 @@
     "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
     "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~$TET.docx",
-    "College/Tugas Akhir/Prototype Skripsi/Prototype Skripsi.md",
     "Daily Life/Artikel Singkat",
     "Untitled 1.base",
     "Daily Life/Fragrance Things",

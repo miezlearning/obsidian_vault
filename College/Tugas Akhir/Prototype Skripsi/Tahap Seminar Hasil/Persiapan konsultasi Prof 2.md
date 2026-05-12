@@ -23,3 +23,5 @@ Terakhir, model dievaluasi menggunakan **Testing Data** yang sama sekali belum p
 ```
 
 Pertanyaan "akurasi cukup?" [[[Cara Jawab Akurasi Cukup]].
+
+pertanyaan "kenapa hanya membuka 1 blok yaitu blok 5"  [[[Cara Jawab Block 5 VGG]]]

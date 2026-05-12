@@ -1,0 +1,5 @@
+Izin menjawab Bapak/Ibu penguji. Keputusan untuk hanya membuka (unfreeze) satu lapisan konvolusi, yaitu `block5_conv4` pada tahap Fine-Tuning, didasarkan pada pertimbangan konservatif terhadap ukuran dataset lokal kita yang terbatas.
+
+Membuka lebih banyak lapisan konvolusi pada dataset berskala kecil akan sangat meningkatkan risiko terjadinya catastrophic forgetting. Artinya, bobot pre-trained berharga yang mewakili pengetahuan umum dari ImageNet bisa terdegradasi atau rusak karena proses adaptasi model yang terlalu agresif.
+
+Oleh karena itu, dengan hanya membuka lapisan konvolusi terakhir, model diharapkan dapat menyesuaikan representasi fitur yang spesifik dengan domain jalan rusak di Samarinda, tanpa kehilangan kemampuan dasar ekstraksi fitur yang sudah sangat baik dipelajari dari 1,2 juta gambar dataset ImageNet. Pendekatan ini juga didukung oleh literatur dari Baroudi et al. (2025) dan Simonyan & Zisserman (2015).

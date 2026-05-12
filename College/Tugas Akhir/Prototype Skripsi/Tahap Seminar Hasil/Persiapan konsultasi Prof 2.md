@@ -22,4 +22,4 @@ Setelah mendapatkan bobot awal, dilanjutkan dengan tahap **Fine-Tuning** dengan 
 Terakhir, model dievaluasi menggunakan **Testing Data** yang sama sekali belum pernah dilihat oleh model (Evaluasi Akhir). Jika akurasi dirasa belum cukup, maka akan dilakukan evaluasi ulang pada tahap Fine-Tuning atau penyesuaian parameter. Jika akurasi sudah memenuhi target, maka model siap menghasilkan **Output Klasifikasi** berupa prediksi jenis dan tingkat kerusakan jalan.
 ```
 
-Pertanyaan "akurasi cukup?"
+Pertanyaan "akurasi cukup?" [[[Cara Jawab Akurasi Cukup]].

@@ -177,12 +177,12 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "925b19014058660d",
@@ -244,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Rencana Judul Skripsi.md",
+                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rencana Judul Skripsi"
+              "title": "Outline of Persiapan konsultasi Prof 2"
             }
           },
           {
@@ -278,7 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,7 +295,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fb24d361af388aa1",
+  "active": "9d404bf0ab4cf0c8",
   "lastOpenFiles": [
     "Study/Struktur Latar Belakang .md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",

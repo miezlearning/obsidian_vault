@@ -6,7 +6,9 @@ Di bab 2 jangan lupa tanyakan apakah perlu ditambahkan streamlit dan google cola
 
 Terus di bab 3, 
 1. ke tahapan penelitian dulu
-2. khususnya di rancangan proses apakah sudah benar alurnya.... 
+2. pengumpulan data flowchartnya
+>Penelitian ini membutuhkan dataset gambar kerusakan jalan yang sesuai dengan kondisi nyata jalan di Kota Samarinda, karena model klasifikasi perlu dilatih menggunakan data lokal agar hasilnya lebih relevan dengan objek yang diteliti.
+3. khususnya di rancangan proses apakah sudah benar alurnya.... 
 
 > Bisa baca seperti ini saja alurnya
 

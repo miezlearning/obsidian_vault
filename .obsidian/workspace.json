@@ -47,11 +47,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled 5.base",
+                "file": "Untitled 6.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Untitled 5"
+              "title": "Untitled 6"
             }
           },
           {
@@ -166,7 +166,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -283,10 +284,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fb24d361af388aa1",
+  "active": "4184dffca191c760",
   "lastOpenFiles": [
-    "Untitled 4.base",
     "Untitled 5.base",
+    "Untitled 6.base",
+    "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
     "Study/Struktur Latar Belakang .md",
@@ -320,7 +322,6 @@
     "Daily Life/Artikel Singkat",
     "Untitled 1.base",
     "Daily Life/Fragrance Things",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL2173.tmp",
     "{EB570D32-6630-4E52-9BAE-9073459E9E63}.png",
     "Pasted image 20250909234848.png",
     "Pasted image 20250716112928.png",

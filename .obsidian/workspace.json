@@ -64,9 +64,33 @@
               "icon": "lucide-file",
               "title": "Persiapan konsultasi Prof 2"
             }
+          },
+          {
+            "id": "54ba5806e4fa7ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Cara Jawab Akurasi Cukup.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cara Jawab Akurasi Cukup"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -247,7 +271,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fb24d361af388aa1",
+  "active": "54ba5806e4fa7ce1",
   "lastOpenFiles": [
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",

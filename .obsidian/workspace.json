@@ -45,24 +45,13 @@
             "id": "fb24d361af388aa1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Untitled 5.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Persiapan konsultasi Prof 2"
+              "icon": "lucide-table",
+              "title": "Untitled 5"
             }
           },
           {
@@ -181,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "right": {
     "id": "925b19014058660d",
@@ -295,8 +283,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9d404bf0ab4cf0c8",
+  "active": "fb24d361af388aa1",
   "lastOpenFiles": [
+    "Untitled 4.base",
+    "Untitled 5.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
     "Study/Struktur Latar Belakang .md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Cara Jawab Akurasi Cukup.md",
@@ -324,15 +316,11 @@
     "College/Machine Learning/Ground Truth.md",
     "College/Machine Learning/Apa itu Machine Learning.md",
     "College/KKN/Fungsi Menghapus Composer Lock dan Vendor.md",
-    "College/Tugas Akhir/Dokumen Persyaratan/Persyaratan Utama.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~$TET.docx",
     "Daily Life/Artikel Singkat",
     "Untitled 1.base",
     "Daily Life/Fragrance Things",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL2173.tmp",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD1809.tmp",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRL3859.tmp",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~WRD3468.tmp",
     "{EB570D32-6630-4E52-9BAE-9073459E9E63}.png",
     "Pasted image 20250909234848.png",
     "Pasted image 20250716112928.png",

@@ -4,7 +4,9 @@ Daftar Revisi [[Revisian Seminar Proposal]]
 
 Di bab 2 jangan lupa tanyakan apakah perlu ditambahkan streamlit dan google colab di tinjauan pustaka...
 
-Terus di bab 3, khususnya di rancangan proses apakah sudah benar alurnya.... 
+Terus di bab 3, 
+1. ke tahapan penelitian dulu
+2. khususnya di rancangan proses apakah sudah benar alurnya.... 
 
 > Bisa baca seperti ini saja alurnya
 
@@ -33,3 +35,6 @@ Tujuan fine tuning pada penelitian ini untuk mengerucutkan atau memfokuskan mode
 Penjelasan tentang blok atau fine tuning [[[Penjelasan VGG19 dan setiap Bloknya]].
 
 Jelaskan lagi tentang apa saja yang sudah dibahas pada bab 4, scroll pelan untuk ibunya lihat lihat (jangan lupa di zoom wordnya)
+
+
+Tanyakan juga untuk jurnalnya apa saja yang perlu dimasukkan dari bab 4 ini...

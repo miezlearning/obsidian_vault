@@ -45,13 +45,24 @@
             "id": "fb24d361af388aa1",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 6.base",
-                "viewName": "Table"
+                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Bab 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Untitled 6"
+              "icon": "lucide-file",
+              "title": "Bab 5"
             }
           },
           {
@@ -284,15 +295,16 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4184dffca191c760",
+  "active": "fb24d361af388aa1",
   "lastOpenFiles": [
-    "Untitled 5.base",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Bab 5.md",
     "Untitled 6.base",
+    "Untitled 5.base",
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
     "Study/Struktur Latar Belakang .md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Cara Jawab Akurasi Cukup.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
     "[Cara Jawab Akurasi Cukup.md",
@@ -321,7 +333,6 @@
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~$TET.docx",
     "Daily Life/Artikel Singkat",
     "Untitled 1.base",
-    "Daily Life/Fragrance Things",
     "{EB570D32-6630-4E52-9BAE-9073459E9E63}.png",
     "Pasted image 20250909234848.png",
     "Pasted image 20250716112928.png",

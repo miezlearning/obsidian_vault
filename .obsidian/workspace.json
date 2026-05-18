@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "925b19014058660d",
@@ -294,7 +295,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5a6b8a906184cef9",
+  "active": "9d404bf0ab4cf0c8",
   "lastOpenFiles": [
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Revisi Konsultasi 2 ( Pemb. 1 ).md",

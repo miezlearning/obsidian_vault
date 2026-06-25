@@ -5,7 +5,7 @@
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/#*Table1]]
 
 # Prof Anindita
-
+![![College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/#*Table3]]
 
 # Pak Reza
 

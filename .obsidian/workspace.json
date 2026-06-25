@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
+                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/Revisian Seminar Hasil.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Revisian Seminar Proposal"
+              "title": "Revisian Seminar Hasil"
             }
           },
           {
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "right": {
     "id": "925b19014058660d",
@@ -295,8 +294,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "dc3f4c1def4179ce",
+  "active": "5a6b8a906184cef9",
   "lastOpenFiles": [
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/Revisian Seminar Hasil.md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/Tahap Pendadaran.md",
+    "College/Tugas Akhir/Prototype Skripsi/Untitled.md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran",
+    "Untitled 10.base",
+    "Untitled 9.base",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Revisian Seminar Proposal.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Revisi Konsultasi 2 ( Pemb. 1 ).md",
     "Untitled 8.base",
@@ -322,16 +327,11 @@
     "Untitled 5.base",
     "Untitled 4.base",
     "Untitled 3.base",
-    "Untitled 2.base",
     "[Cara Jawab Akurasi Cukup.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Untitled 2.md",
     "Study/Penjelasan VGG19 dan setiap Bloknya.md",
     "Study/Untitled 1.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Untitled.md",
-    "Study/Untitled.md",
-    "Daily Life/Mechanichal Keyboard/Wishlist keyboard.md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/Muhammad Alif Seminar Proposal v.1.pdf",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Proposal/~$TET.docx",
     "{EB570D32-6630-4E52-9BAE-9073459E9E63}.png",
     "Pasted image 20250909234848.png",
     "Pasted image 20250716112928.png",

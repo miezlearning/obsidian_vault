@@ -1,6 +1,6 @@
 # Bu Novianti
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/#*Table]]
-## POIN SELESAI 
+## POIN SELESAI BU NOVIANTI
 
 POIN 2 
 ![[{257BFEB2-B812-4C31-A174-FF3FEC1B6EE7}.png]]

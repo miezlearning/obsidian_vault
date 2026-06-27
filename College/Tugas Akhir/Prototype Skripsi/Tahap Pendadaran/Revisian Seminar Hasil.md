@@ -1,5 +1,8 @@
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/#*Table]]
+## POIN SELESAI 
 
+POIN 2 
+![[{257BFEB2-B812-4C31-A174-FF3FEC1B6EE7}.png]]
 # Bu Joan Angelina
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/#*Table1]]
 

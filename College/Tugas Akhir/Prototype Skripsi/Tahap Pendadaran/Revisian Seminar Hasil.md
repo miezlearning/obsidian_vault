@@ -16,6 +16,12 @@ BEFORE
 AFTER
 ![[{16D6A9F1-0826-4E2E-84F3-B710B253C193}.png|525]]
 
+POIN 4 
+BEFORE
+![[Pasted image 20260627144840.png|395]]
+
+AFTER
+![[{D7FC566C-B953-423E-B958-311296FCA3D1}.png]]
 
 # Bu Joan Angelina
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/#*Table1]]

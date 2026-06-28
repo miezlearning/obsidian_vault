@@ -67,3 +67,8 @@ AFTER
 # Pak Reza
 
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/#*Table2]]
+# Poin Selesai Pak Reza
+
+POIN 1 
+BEFORE
+![[{22C3B3C6-F651-46FB-A016-A65F05DEC8B6}.png]]

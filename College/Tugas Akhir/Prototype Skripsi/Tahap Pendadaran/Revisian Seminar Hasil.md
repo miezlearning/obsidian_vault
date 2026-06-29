@@ -1,4 +1,4 @@
-w# Bu Novianti
+# Bu Novianti
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/#*Table]]
 ## POIN SELESAI BU NOVIANTI
 POIN 1
@@ -78,6 +78,15 @@ BEFORE
 POIN 5
 AFTER
 ![[{20DD27ED-7358-443E-8120-CE26CDDF2124}.png]]
+
+POIN 11
+BEFORE
+![[{4CB1FA12-A627-49B1-9DE5-CF6FFC0D046B}.png]]
+
+POIN 11
+AFTER
+![[{752E7EDD-7BFD-4ADC-9052-0FA76CBD4AFF}.png]]
+
 # Prof Anindita
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/#*Table3]]
 

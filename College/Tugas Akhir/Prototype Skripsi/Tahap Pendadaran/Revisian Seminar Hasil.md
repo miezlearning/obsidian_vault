@@ -59,8 +59,14 @@ POIN 10
 AFTER
 ![[{E42A3B94-046D-4429-AE87-A3966344193D}.png]]
 
+Poin 11
+BEFORE
+![[{130A213B-7F5D-4B42-956E-753574D2CAF0}.png]]
 
 
+POIN 11
+AFTER
+![[{20DD27ED-7358-443E-8120-CE26CDDF2124}.png]]
 # Prof Anindita
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/#*Table3]]
 

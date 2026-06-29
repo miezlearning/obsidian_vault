@@ -31,6 +31,17 @@ AFTER
 ![[{D7FC566C-B953-423E-B958-311296FCA3D1}.png]]
 
 
+POIN 6 
+BEFORE
+Berdasarkan Tabel 4.2, custom classifier head yang ditambahkan terdiri atas lapisan GlobalAveragePooling2D untuk meratakan peta fitur dari blok konvolusi terakhir VGG19, dilanjutkan dengan lapisan Dense(512) dengan regularisasi L2 dan fungsi aktivasi ReLU, Dropout(0,5), lapisan Dense(256) dengan regularisasi L2  dan fungsi aktivasi ReLU, Dropout(0,3), serta lapisan output Dense(9) dengan fungsi aktivasi Softmax yang menghasilkan distribusi probabilitas terhadap sembilan kelas kerusakan jalan. Total keseluruhan parameter model adalah 20.420.681, di mana pada tahap Feature Extraction hanya 396.297 parameter (1,94% dari total) yang bersifat trainable, sedangkan 20.024.384 parameter milik VGG19 bersifat non-trainable
+
+
+POIN 6
+AFTER
+Berdasarkan Tabel 4.2 menyajikan ringkasan arsitektur model VGG19 _transfer learning_ yang digunakan dalam penelitian ini. Kolom _No_ menunjukkan urutan lapisan, kolom _Layer_ menunjukkan nama lapisan, kolom _Tipe_ menunjukkan jenis lapisan, kolom _Output Shape_ menunjukkan dimensi keluaran, dan kolom _Parameter_ menunjukkan jumlah bobot serta bias pada setiap lapisan. Berdasarkan tabel tersebut _custom classifier head_ terdiri atas lapisan GlobalAveragePooling2D, Dense(512), Dropout(0,5), Dense(256), Dropout(0,3), dan Dense(9) dengan fungsi aktivasi _Softmax_. Lapisan-lapisan ini disusun untuk menyesuaikan fitur hasil ekstraksi VGG19 dengan sembilan kelas target penelitian. Total parameter model berjumlah 20.420.681, dengan 396.297 parameter bersifat _trainable_ pada tahap _feature extraction_, sedangkan 20.024.384 parameter lainnya dibekukan sebagai bagian dari _base_ model VGG19.
+
+
+
 POIN 7 
 BEFORE
 

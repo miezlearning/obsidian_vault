@@ -88,3 +88,10 @@ AFTER
 # Pembahasan Tambahan
 
 1. Jika analisa komparatif pada skema membuktikan ada penambahan akurasi ini perlu dibahas apa alasannya, dan juga kenapa masih ada indikasi hasil akurasi yg jelek  seperti tentang keterbatasan data, distribusi data yang tidak balance masing-masing kelas, visual yang mirip antar tingkat pada jenis
+
+# Note
+
+- Jalankan 2 program skema 1 dan 2
+> Skema 1 : Pembagian Data 70:15:15, Epoch 100
+> Skema 2 : Pembagian Data 80:10:10, Epoch 100
+> GPU : T4 

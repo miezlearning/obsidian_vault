@@ -83,3 +83,8 @@ POIN 1
 AFTER
 ![[{69B9F26D-283D-4F9A-8C9E-8ECF95C3E4DE}.png]]
 
+
+
+# Pembahasan Tambahan
+
+1. Jika analisa komparatif pada skema membuktikan ada penambahan akurasi ini perlu dibahas apa alasannya, dan juga kenapa masih ada indikasi hasil akurasi yg jelek  seperti tentang keterbatasan data, distribusi data yang tidak balance masing-masing kelas, visual yang mirip antar tingkat pada jenis

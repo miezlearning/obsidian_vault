@@ -85,8 +85,7 @@ BEFORE
 
 POIN 11
 AFTER
-![[{752E7EDD-7BFD-4ADC-9052-0FA76CBD4AFF}.png]]
-
+![[Studi Literatur Pengkajian Penelitian.jpg]]
 # Prof Anindita
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/#*Table3]]
 

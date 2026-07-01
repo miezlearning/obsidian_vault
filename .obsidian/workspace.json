@@ -30,36 +30,12 @@
             }
           },
           {
-            "id": "fb24d361af388aa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Persiapan konsultasi Prof 2"
-            }
-          },
-          {
             "id": "073a1a5f7eb17824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Struktur Latar Belakang .md",
+                "file": "College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/Revisian Seminar Hasil.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -74,7 +50,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Struktur Latar Belakang"
+              "title": "Revisian Seminar Hasil"
             }
           },
           {
@@ -101,7 +77,8 @@
               "title": "Cara Jawab Akurasi Cukup"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,9 +259,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "226a6656d9fec267",
+  "active": "9d404bf0ab4cf0c8",
   "lastOpenFiles": [
     "College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/Revisian Seminar Hasil.md",
+    "Pasted image 20260701201706.png",
+    "Study/Struktur Latar Belakang .md",
+    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
     "Studi Literatur Pengkajian Penelitian.jpg",
     "{752E7EDD-7BFD-4ADC-9052-0FA76CBD4AFF}.png",
     "{4CB1FA12-A627-49B1-9DE5-CF6FFC0D046B}.png",
@@ -294,7 +274,6 @@
     "{22C3B3C6-F651-46FB-A016-A65F05DEC8B6}.png",
     "{F2345AA7-16B9-48FB-8161-A1ACCD6C7CF1}.png",
     "{E42A3B94-046D-4429-AE87-A3966344193D}.png",
-    "{A1E0536E-3C41-467B-9B04-2115F25BEF9D}.png",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Cara Jawab Akurasi Cukup.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/Tahap Pendadaran.md",
     "College/Tugas Akhir/Prototype Skripsi/Untitled.md",
@@ -314,8 +293,6 @@
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Cara Jawab Block 5 VGG.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Catatan Revisi Konsul 2.md",
     "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Bab 5.md",
-    "Study/Struktur Latar Belakang .md",
-    "College/Tugas Akhir/Prototype Skripsi/Tahap Seminar Hasil/Persiapan konsultasi Prof 2.md",
     "College/KKN/Folder Drive Kelompok KKN.md",
     "College/Machine Learning/Overfitting.md",
     "College/Machine Learning/LIDAR Implementation.md",

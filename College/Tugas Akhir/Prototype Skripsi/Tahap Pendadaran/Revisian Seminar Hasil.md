@@ -52,13 +52,22 @@ AFTER
 Kompleksitas tugas klasifikasi 9 kelas secara simultan dengan dataset lokal berskala terbatas (1.731 citra) dan distribusi yang sangat tidak seimbang (rasio kelas terbanyak : terkecil = 524 : 24 = 21,8:1) menjadi faktor utama yang memengaruhi performa model. Semakin banyak jumlah kelas dan semakin ekstrem ketidakseimbangan data, semakin sulit model mencapai akurasi tinggi secara merata pada semua kelas. Dengan mempertimbangkan kompleksitas tersebut, akurasi 66,54% dengan _macro-average F1-score_ 0,5970 merupakan hasil awal yang layak sebagai _proof-of-concept_ penerapan VGG19 pada kondisi lokal Kota Samarinda. Untuk konteks operasional, model ini lebih tepat difungsikan sebagai alat bantu pra-seleksi (_decision support_) yang membantu petugas memprioritaskan pemeriksaan khususnya pada laporan dengan confidence score tinggi, daripada sebagai validator tunggal yang otonom.
 
 
+POIN 8 
+BEFORE
+Tidak ada.
+
+POIN 8
+AFTER
+![[{73191E45-0744-476D-BE24-1EB8B1BF6510}.png]]
+
+
 POIN 9 
 BEFORE
 ![[{36540A3D-5948-4A87-B2D2-FEB04F6114EC}.png]]
 
 POIN 9
 AFTER
-![[Pasted image 20260701205618.png]]
+![[Pasted image 20260701205618.png|697]]
 # Bu Joan Angelina
 ![![College/Tugas Akhir/Prototype Skripsi/Tahap Pendadaran/#*Table1]]
 ## POIN SELESAI BU JOAN 
